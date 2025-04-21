@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>11月碎碎念。水逆退散！</title>
+    <url>/2019/11/30/11%E6%9C%88%E7%A2%8E%E7%A2%8E%E5%BF%B5%E3%80%82%E6%B0%B4%E9%80%86%E9%80%80%E6%95%A3%EF%BC%81/</url>
+    <content><![CDATA[<p>11月，绕不开的话题是双十一购物节，可能电商最忙碌的时候，也可能是电商程序员最忙的时候。资本的丰收是下面各个岗位劳动者殚精竭虑的付出。</p>
+<p>这两年我对双十一已经完全不感冒了，相反还有点厌恶它。双十一之后，快递量大，以前顶多几天能到的快递需要两三周才能到；又看到李永乐关于双十一的视频，双十一活动规则设置的非常复杂是因为价格歧视，具有针对性，我很反感给我打折还得拐弯抹角挤牙膏式的行为（特别是某些平台“拉票”的机制，发放的优惠需要我帮你宣传才只是有概率获得？）；还有些电商名为双十一搞活动，背地里却是先升价再降价，到头来算上你辛辛苦苦获得的优惠一抵扣根本没便宜多少，你却已经投入了大量的时间与精力。当然并不是所有电商是这样。听同事说，xxxx的鞋子双十一确实会打折，有的联名款甚至打五折，没有复杂的规则但是限量。</p>
+<p>网络上议论纷纷的双十一虚假销售数据问题，至于你信不信，我反正信了。差评公众号写了一篇文章，大体说xx是电商行业的龙头，以打卡机制可控类比xx对双十一营销额可控，而针对数据理论推导出的曲线又再次强调是xx的掌控能力牛逼而非造假等云云，想来说的实在恶心，遂取关。（厌恶的或者不赞同的事物，果然很难放下成见）</p>
+<p>月初参加了一次志愿者活动，累与快乐并存。实习的公司这边，总经理离职了，算是重磅炸弹，从项目刚成立到现在一年高层离开。至于离职缘由细节，我们无法获知也不便讨论，我对这位总经理的印象是人好，技术懂得多且广，对项目各个部分都能掌控并分配好人员。现在的情况是技术副总裁交接，可能是暂时兼任。他来部门开过一次大会，告诉大家项目整体结构并未发生多大变化，保持和平常一样就好。之后团建吃饭的时候也来了，和大家说说笑笑。饭桌上才知道副总裁是微软出来的，暗暗有些佩服。</p>
+<p>月底我也辞职了，准备毕设的事情。另外上心的是博客重构，因为感觉写的烂，打算前后端都重构一遍，辞职遗憾的是忘记像之前那样到公司楼下买面包吃。</p>
+<p>本月碰上了课程答辩，因为除了第一次开会之后都没有去，导致写的项目文档有很多地方自己都不知道格式规范（要求参考毕业设计格式规范），全凭着自己的喜好来定，答辩的时候被批评文档格式糟糕。尽管内容上自我感觉良好，但是格式第一内容第二，被打回要求修正格式。大学鲜有的出大糗，现在想起来还有些耳朵发烫。之后才像是开窍了知道该去问问同学，去看看毕设文档格式。因为觉得更改格式花不了太长时间，文档修改给推到周日的下午弄，结果好巧不巧撞上了老师要求服务器生产环境上线项目的事情。只得周一早上六点多爬起来更改文档格式，改到八点半赶去上班。之后打印文档的时候又折腾了一阵，先是打印后发现标题3样式发生了变化，换了台打印机打印又发现没了页码，诸事不顺啊……</p>
+<p>不知是什么时候B站网页更新了样式，上层UI发生了较大变化，看着总觉得别扭，可能时间久了就习惯了。网易最近内部也出了事，被爆出对员工暴力驱逐，感觉事情闹到人尽皆知，关注的两个大UP主也都专门出了视频说，最后的结果是网易承认错误并道歉？让我挺吃惊的，本想着是不是后面会有反转，给网易洗一波的同时，也赢得宣传面。贪玩蓝月最近又出现在了视野中，原因无他，游戏代言人换成了球星欧文，这是否能说明被玩家群体吐槽的游戏营收可能十分可观？cygames前几天出了一款新手游WORLD FLIPPER，自家游戏自然少不了自家其他游戏人物的联动，gbf群里不少群友在刷初始，起初我不是很感兴趣，结果真香了。</p>
+]]></content>
+      <tags>
+        <tag>无稽之谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2018总结</title>
+    <url>/2019/01/01/2018%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<h2 id="不大走运的开头"><a href="#不大走运的开头" class="headerlink" title="不大走运的开头"></a>不大走运的开头</h2><p>可能17年12月底立的flag(发了条朋友圈，后来觉悟删了)太多导致18年一月份就过的很不顺利。1月份其实垃圾手游给我带来了很大伤害，晚上心态爆炸导致没睡好着凉了，一直拖着没去校医院，找同学拿了点药吃，反而感觉更糟了，在虚的不行的情况下顶着冷雨去看了病(吸取教训，药不能乱吃)，那几天状态非常糟糕，晚上睡不着，起来没精神，学习方面直接搁浅了，每天坐在宿舍里对着行将就木，宛如死尸。好不容易撑过了考试，熬过了低烧，没几天过敏又开始造访(后面再次证实乱吃药的后遗症)，一开始没怎么在意，谁知道这场过敏持续了将近一个月。</p>
+<p>过敏期间虽然身体不大舒服，寒假里游戏最好的收获大概就是下图了吧（写到这里发现博文没有图片折叠功能和预览功能，之后再补上吧）<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.loli.net/2018/12/20/5c1a6d2d65c13.jpg#width-full"
+                      alt="新年福袋"
+                ><br>这大概是当时废狗玩了那么久最欧的一次了……</p>
+<h2 id="继续中断的学习和迎来转折点"><a href="#继续中断的学习和迎来转折点" class="headerlink" title="继续中断的学习和迎来转折点"></a>继续中断的学习和迎来转折点</h2><p>开学之后，身体已经好的差不多了，寒假放纵的心也收回来了，1月生病的缘故，之前的学习断层了，再重拾这些知识时，已经有些生疏了，每天下课后背着电脑找间教室缩在最后一排学习（因为需要墙上的插座），偶尔可能还会被塞上几口狗粮，下过雨后可能还要接待成群的水蚁，不时也会遇上漂亮的姑娘们过来学习才怪。拍了一张某天照旧去学习时的教室照片<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.loli.net/2018/12/20/5c1a764eaec42.jpg#width-full"
+                      alt="enter description here"
+                ><br>印象里应该是某个周末拍的，无人打扰，独享一片区域，阳光正好，环境安宁，非常喜欢这种氛围。中午以及晚上饿了不时就会选择点份外卖（送到楼下），那段时间的周末是美好而充实的，人的精神状态还不错。这样的机会以后估计会越来越少了吧。<br>接着就迎来了我的一个非常关键的转折点：某天课上刷着学校的贴吧看到学校有新的工作室招新（上课要专心听讲），下课兴冲冲写了份简历投过去，之后幸运的通过了面试（得益于当时面后端的人并不多）。接触到了非常优秀的师兄师姐们，也是我当下追赶的目标，从他们那里学习了很多。也认识了另外三个跟我同期的非常可靠的小伙伴。，以及带队的斗志昂扬的老师。有时候我还在想要是错过那个帖子，我现在又是何种状态呢，这就是命运的安排啊。<br>依旧是17年的11月份偶然见到一位师兄的博客产生了自己想要做自己的个人博客平台的想法，如图是当时做前端的一位师兄的博客🔗<a href="www.yangzicong.com">链接</a><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.loli.net/2018/12/20/5c1a7844a3b28.png#width-full"
+                      alt="师兄的博客"
+                ><br>内心就想着很棒，一来可以锻炼自己的技术，二来在这个小空间里写写东西感觉很幸福。于是兴冲冲的租了人生中的第一台服务器。但买了服务器所学知识跟不上也是个问题，所以才有了我后续的后端学习，在此之前我还有些（因为大一下学期某工作室考核被刷，半失落状态）。<br>说回现在的年份。5月6月感觉需要的后端知识学的差不多了，于是转而开始攻前端的问题。前端让我见识到了另一片天地，我曾一度被前端那种肉眼可见的美所征服，为自己写出一个小功能而高兴，为一段js的异常而苦恼，为布局为样式而	抓耳挠腮。</p>
+<h2 id="团队合作"><a href="#团队合作" class="headerlink" title="团队合作"></a>团队合作</h2><p>7，8月份暑假，是许多小伙伴的欢快时光，但同时也是提升，超跃自我的一个重要节点。7月份老师开始组织我们四个人（和我同期进工作室的三个小伙伴）参与到她的项目中，结识了两位人非常好的研究生师兄。这段时间算是我这一年里最美好的一段时光了吧。每天和其他三个小伙伴们去广药学习工作，晚上又一起“下班”回校，办公或是路上聊些有的没的（比如比谁的车好骑），这种965的生活方式是我的理想型。期间也一起去尝了不少其他外校的饭堂饭菜，目前印象最好的是华工生活区的那个饭堂吧，可惜没多久就因为暑假而休业了（就是那个距离世界一流大学大概从校门口坐专线2公交到广工站下车就到了的华工）。也鉴别出了我们四个人中某个披着黄种人外表的欧洲细作。可惜向来不怎么喜欢拍照，此处缺少一张照片让人怀念和感伤，不过也好，“再也没有什么比幸福的回忆更妨碍幸福的了。”</p>
+<h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>本站的第一篇博文，作为对2018年的粗略回顾，后续再补一篇开发上的总结，要忙别的事情，博客开发就暂告一段落了。虽然bug还没解决完，有空再继续维护和修复。</p>
+]]></content>
+      <tags>
+        <tag>总结</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>1月尾</title>
+    <url>/2024/01/31/1%E6%9C%88%E5%B0%BE/</url>
+    <content><![CDATA[<p>pc端的微信支持ocr功能，对于日常办公很实用，只用把截图发上来就能自动识别文字，精确度还很高。但这让我想起了一个蛮可惜的事，有个程序员写了个ocr软件（名字忘了），在q群里识别了群友发的图片中的磁力链接并发了出来，结果这磁力链接是一个少女的裸照还是什么的，后面这作者涉及传播淫秽物品进去了。</p>
+<p>在了解古文时看到了一个词“法天象地”，出处一是西游记里的一种神通。全书会法天象地的只有孙悟空和二郎神，孙悟空在书中只用过三次。</p>
+<blockquote>
+<p>施展此神通会让施法者化身成天地，效仿天地的规模，效仿天，模仿地，跟天一样高大，地一样宽广，是能与天地同高的技能，属于大神通</p>
+</blockquote>
+<blockquote>
+<p>真君与大圣斗经三百余合，不知胜负。那真君抖擞神威，摇身一变，变得身高万丈，两只手，举着三尖两刃神锋，好便似华山顶上之峰，青脸獠牙，朱红头发，恶狠狠，望大圣着头就砍，这大圣也使神通，变得与二郎身躯一样，嘴脸一般，举一条如意金箍棒，却就如昆仑顶上的擎天之柱，抵住二郎神。</p>
+</blockquote>
+<p>被火影洗脑了，初看第一反应是须佐能乎，代入动画形象中二病又快犯了。</p>
+<p>另一出处则为</p>
+<blockquote>
+<p>法天象地是古代思想家在著作中的一句常见语，道家思想认为，古之圣王所以王于天下，无不做到法天象地的境界.，“道”是法天象地的根本。</p>
+</blockquote>
+<p>没找到这个词有具体出现在哪部古典中。</p>
+<h2 id="一些回忆"><a href="#一些回忆" class="headerlink" title="一些回忆"></a>一些回忆</h2><p>逛了逛好多年没上的西子湖畔网，已不复往昔活跃，帖子多是些牢骚水贴，没什么营养，回复亦寥寥，只有它的搜索功能，一如既往的难用。得益于我初中形成的设置密码习惯，很顺利就登上去了，我只发过一个帖子，吐槽当时买手机被线下店坑的经历（那时我对网购的概念应该接近0，印象里在网上就买过一双帆布鞋），虽言辞幼稚，但也有几十楼的回复，这些层主有的如我一样好久不在上来了，也有的显示近期登录过。</p>
+<p>也看看了我初中、高中的贴吧，贴吧式微，这些吧也免不了沉寂了，近期的帖子除去广告也要追溯到几个月乃至一年前了，帖子的内容很显懵懂青少年的味道。挖坟贴不少，多是问些旧人旧事。高中的官网banner依旧挂的是我那一届的同学照片，有几位是我们班的。我虽形象不佳，也不喜拍照，却很是遗憾没有参与拍这张封面照，因为摄像师把大家都照的很丑。百度搜索作了调整，顺手搜索同学们时再难像以前一样能找到相关信息，这也算是好事吧。</p>
+<p>优酷仍在运营，初中文艺演出视频得以保存至今，只是现在要看将近两分钟的广告，画质也很是感人，有一种复古“模糊美“。表演的人里漂亮的自是有印象，我班艺术才子佳人亦是不能忘记，教我的老师们在我这是有像校领导印象无法模糊的待遇，但这些人我现在无法念出几个名字。对于晚会表演中的歌曲我或许尚能以自己觉得好听与否评判，但舞蹈这种艺术我却是一直没得门径品不出意思来。古风我还能以传统文化为由坚持看看，但撩骚辣舞放在那时还不过十几岁的少年少女身上，却是怎么也欣赏不来的。耳边似是听到一句歌词，“笨拙系上红色领带的结，将头发梳成大人模样，穿上一身帅气西装”。</p>
+<p>可能大脑对记忆作了筛选和美化，糟糕的经历大概只在海马体的角落里，不容易让人想起，所以回忆过去总是种种美好，让人无比怀念，也让人伤神，跌至情绪低谷。每次这种较长时间的追忆往昔，我总会想起这句话“再没有什么比幸福的回忆更妨碍幸福的了”，恰逢今天edge推送的名人名言也多少有点这个意思吧——“如果纠缠于过去与现在，我们将失去未来。”</p>
+<h2 id="婚宴"><a href="#婚宴" class="headerlink" title="婚宴"></a>婚宴</h2><p>对于婚宴，我是没有经验的。虽然我的同学们有不少结婚办婚宴的，但我往日贫乏的社交活动不足以支撑我参加。亲戚里这么多年结婚的要么时间不对或路途遥远没有去，要么就是没有定数。所以部门同事邀请参加他女儿的婚宴还是很意外的。</p>
+<p>当天下午跟进电话故障的事，天公作美，没有让天气预报如意，冷风阴天但无雨。只是让电信人员跑了三次，略惭愧，在各张银行卡上东拼西凑了50元，提前点好3杯奶茶给他们。处理完事情就快五点半了，匆忙赶回部门搭便车去酒店，雨水姗姗来迟。</p>
+<p>五点半左右到酒店，一直到七点半左右才吃上饭，期间桌上的糖果花生被消灭了不少，倒不至于会挨饿。T台大屏幕放着新郎新娘的接亲视频、婚纱照片，新娘落落大方，穿着迪士尼风格，确有公主之迹。新郎身高八尺，端正得体。想起了最近又重温了一遍的《求婚大作战》，不知道现场有无伤心人在这场婚宴上遇到妖精绅士。又起一个念头，人生交心好友之数应要凑齐一个伴郎团。</p>
+<p>13道菜，3道糕点，味道我觉得一般，没有什么让人食指大动的菜，个人还是喜欢吃家常菜，这种有意头的“饕餮盛宴”，始终享受不来。糕点很甜，比较顶饱，我吃了不少。炒饭一言难尽，不知道加了什么料，有股奇怪的味道，口感倒凑合，粒粒分明有嚼劲。为了避免别人以为自己拘谨，也让自己尽量吃饱，添了几碗饭。</p>
+<h2 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h2><p>到年底，单位一些工程的催款消息也”如约而至“，领导们、负责人们也有些头疼，毕竟工程款的事不归单位批，顶多只能帮催催。年底县里的财政也紧张，这月的绩效也像闺中娇娘一样羞于见人。</p>
+<p>旧台机房电话出了问题，又恰逢我这周机房巡检，只得我跟进这个事情。电信的师傅有孔明遗风，打了几次电话才姗姗来迟。这一天磨蹭着也只解决了一半，另一半问题比较复杂，需要人帮忙。起没搞清楚状况，明明2月3月县里领导们要用的东西，相关人却跟我们说可以不搞，我自然多一事不如少一事，后面部门负责人提醒下才知道这事情推不得，只好又急忙联系师傅另定时间继续处理。只是跟电信师傅沟通后也没定下确切时间，只得一个模糊的这周或者下周一，有前车之鉴我不是很放心，目前只能每天打个电话催催。</p>
+<p>等师傅来的时间里跟值班员聊天，聊了单位过去的发展历史，聊了单位同事和和工作。值班员的牢骚大意可以用一首诗来概括，“你站在桥上看风景，看风景人在楼上看你。明月装饰了你的窗子，你装饰了别人的梦”。</p>
+<h2 id="99-9-和0-1"><a href="#99-9-和0-1" class="headerlink" title="99.9%和0.1%"></a>99.9%和0.1%</h2><p>在京东买了台笔记本，用图吧工具箱测试了下挺满意，就在要联网激活时屏幕测试发现了一个坏点，位置还行在靠近边缘处，不太显眼，但是刚买来就发现了还是膈应，就跟客服反馈看有没优惠拿，结果说补偿500京豆（5块钱），有些气就点退货了，售后这才打电话说给补偿书包和鼠标。这时我心态发生了变化，没有接受。事后想想蛮可惜的，不知道新屏幕有坏点是否常见，有些气恼一块屏幕厂家为啥做不到100%的正常显示。</p>
+]]></content>
+      <tags>
+        <tag>无稽之谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Kafka和kafka Manager笔记</title>
+    <url>/2019/11/14/Kafka%E5%92%8Ckafka%20Manager%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<h2 id="kafka相关"><a href="#kafka相关" class="headerlink" title="kafka相关"></a>kafka相关</h2><h3 id="基本概念"><a href="#基本概念" class="headerlink" title="基本概念"></a>基本概念</h3><p>用一张图概括<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="en-resource://database/590:1"
+                      alt="80efcf61d08e8d20dd3fc07470fbfdd3.png"
+                ></p>
+<h4 id="topic"><a href="#topic" class="headerlink" title="topic"></a>topic</h4><p>消息是以主题进行分类。即一个消息有且只对应一个主题。</p>
+<h4 id="partition"><a href="#partition" class="headerlink" title="partition"></a>partition</h4><p>topic是一个逻辑上的概念，它还可以细分为多个partition，一个partition只属于单个topic，很多时候也会把partition称为Topic-Partition。<strong>同一topic下的不同分区包含的消息是不同的</strong>，partition在存储层面可以看作一个可追加的日志文件（详见后面消息存储部分），消息在被追加到partition日志文件的时候都会分配一个特定的偏移量（offset）。</p>
+<p><strong>offset</strong>是消息在分区中的唯一标识，Kafka 通过它来保证消息在分区内的顺序性，不过 offset 并不跨越分区，也就是说，Kafka 保证的是分区有序而不是主题有序<br>partition目的是解决机器I&#x2F;O性能瓶颈问题</p>
+<p>而partition又引入了Replica机制(多副本机制)提升容灾机制：</p>
+<blockquote>
+<p>同一分区的不同副本中保存的是相同的消息（在同一时刻，副本之间并非完全一样），副本之间是“一主多从”的关系，其中<strong>leader副本负责处理读写请求，follower 副本只负责与 leader 副本的消息同步</strong>。副本处于不同的 broker 中，当 leader 副本出现故障时，从 follower 副本中重新选举新的 leader 副本对外提供服务。Kafka通过多副本机制实现了故障的自动转移，当 Kafka 集群中某个 broker 失效时仍然能保证服务可用。</p>
+</blockquote>
+<p>因为多副本机制，又引申出了新的几个名词概念——AR，ISR，OSR</p>
+<blockquote>
+<p>分区中的所有副本统称为 AR（Assigned Replicas）。所有与 leader 副本保持一定程度同步的副本（包括 leader 副本在内）组成ISR（In-Sync Replicas），ISR 集合是 AR 集合中的一个子集。消息会先发送到 leader 副本，然后 follower 副本才能从 leader 副本中拉取消息进行同步，同步期间内 follower 副本相对于 leader 副本而言会有一定程度的滞后。</p>
+</blockquote>
+<blockquote>
+<p>“一定程度的同步”是指可忍受的滞后范围，这个范围可以通过参数进行配置。与 leader 副本同步滞后过多的副本（不包括 leader 副本）组成 OSR（Out-of-Sync Replicas），由此可见，AR&#x3D;ISR+OSR。在正常情况下，所有的 follower 副本都应该与 leader 副本保持一定程度的同步，即 AR&#x3D;ISR，OSR 集合为空。</p>
+</blockquote>
+<blockquote>
+<p>leader 副本负责维护和跟踪 ISR 集合中所有 follower 副本的滞后状态，当 follower 副本落后太多或失效时，leader 副本会把它从 ISR 集合中剔除。如果 OSR 集合中有 follower 副本“追上”了 leader 副本，那么 leader 副本会把它从 OSR 集合转移至 ISR 集合。默认情况下，当 leader 副本发生故障时，只有在 ISR 集合中的副本才有资格被选举为新的 leader，而在 OSR 集合中的副本则没有任何机会（不过这个原则也可以通过修改相应的参数配置来改变）。</p>
+</blockquote>
+<p>判断follow副本消息滞后又引申出两个新的名词——LEO，HW<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="en-resource://database/591:1"
+                      alt="de66679b02cf6fcac111309222d1282f.png"
+                ><br>如上图，消费者只能拉取到HW之前的数据，HW之后的数据对其不可见。每个副本都会维护自身的LEO，而ISR集合中最小的LEO即为分区的HW</p>
+<p>而由上面的LEO和HW又可以引出主从副本之间的<strong>协同机制</strong>：</p>
+<blockquote>
+<p>Kafka 的复制机制既不是完全的同步复制，也不是单纯的异步复制。事实上，同步复制要求所有能工作的 follower 副本都复制完，这条消息才会被确认为已成功提交，这种复制方式极大地影响了性能。而在异步复制方式下，follower 副本异步地从 leader 副本中复制数据，数据只要被 leader 副本写入就被认为已经成功提交。在这种情况下，如果 follower 副本都还没有复制完而落后于 leader 副本，突然 leader 副本宕机，则会造成数据丢失。Kafka 使用的这种 ISR 的方式则有效地权衡了数据可靠性和性能之间的关系。</p>
+</blockquote>
+<p>协同大致流程可参见<a class="link"   href="https://dxysun.com/2019/10/27/javaForKafka3/" >kafka的工作原理分析（三） – 高可用副本机制 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>总之采用ISR合权衡了同步与异步两种机制，解决了同步与异步的缺陷：</p>
+<blockquote>
+<p>当 follower 副本延迟过高，leader 副本则会把该 follower 副本提出 ISR 集合，消息依然可以快速提交。当 leader 副本所在的 broker 突然宕机，会优先将 ISR 集合中follower 副本选举为 leader，新 leader 副本包含了 HW 之前的全部消息，这样就避免了消息的丢失。</p>
+</blockquote>
+<p>partition之疑问<br>为什么同一个分区的副本必须分布在不同的broker上？<br>个人猜测是为了可靠性，防止一个broker挂掉之后，其对应的所有副本都会失效，而将follow副本分散开来则可以避免这个问题。联想到kafka manager中的broker leader skew参数，主要目的是否就是想检测因为其他broker上的leader副本增加这个原因而导致的不平衡。</p>
+<h4 id="broker"><a href="#broker" class="headerlink" title="broker"></a>broker</h4><p>服务代理节点。关于这一点不完全理解，我的理解是kafka server部署在一台机器上即为一个broker。关于<strong>机架</strong>方面暂时尚不理解</p>
+<h4 id="producer"><a href="#producer" class="headerlink" title="producer"></a>producer</h4><p>发送消息的一方。生产者负责创建消息，然后将其投递到Kafka中。</p>
+<h4 id="consumer"><a href="#consumer" class="headerlink" title="consumer"></a>consumer</h4><p>接收消息的一方。消费者连接到 Kafka 上并接收消息，进而进行相应的业务逻辑处理。</p>
+<h3 id="消息存储"><a href="#消息存储" class="headerlink" title="消息存储"></a>消息存储</h3><p>partition以segment为单位存储数据，一个segment对应两个索引文件（.index，.timeindex），日志文件(.log)，以及一个leader-epoch-checkpoint<br>partition全局的第一个 segment从 0 开始，后续每个 segment 文件名为上一个 segment文件最后一条消息的 offset 值进行递增。数值最大为 64 位long 大小，20 位数字字符长度，没有数字用 0 填充<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="en-resource://database/589:1"
+                      alt="09ac3ce7485de209ab2e134b7b03ae0d.png"
+                ></p>
+<p><strong>leader-epoch-checkpoint</strong><br>用于解决消息丢失的问题</p>
+<blockquote>
+<p>leader epoch实际上是一对值(epoch,offset), epoch 表示 leader 的版本号，从 0 开始，当 leader 变更过 1 次时 epoch 就会+1，而 offset 则对应于该 epoch 版本的 leader 写入第一条消息的位移。比如说(0,0);(1,50); 表示第一个 leader 从 offset&#x3D;0 开始写消息，一共写了 50 条，第二个 leader 版本号是 1，从 50 条处开始写消息</p>
+</blockquote>
+<p><strong>.log</strong><br>存储消息</p>
+<p><strong>.timeindex</strong></p>
+<blockquote>
+<p>它是映射时间戳和相对offset, 时间戳和相对offset作为entry,供占用12字节，时间戳占用8字节，相对offset占用4字节，这个索引也是稀疏索引，没有保存全部的消息的entry<br>和inde类似，只不过索引是时间戳</p>
+</blockquote>
+<p><strong>.index</strong><br>每一个索引项为8字节，其中相对offset占用4字节，消息的物理地址(position)占用4个字节<br>关系如下图：<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="en-resource://database/588:1"
+                      alt="77729aa3dceda35239d03b65bf599996.png"
+                ><br>segment文件的命名规则是：<br>partition全局的第一个segment从0开始，后续每个segment文件名为上一个segment文件最后一条消息的offset值。数值最大为64位long大小，19位数字字符长度，没有数字用0填充。</p>
+<h3 id="消息查找流程："><a href="#消息查找流程：" class="headerlink" title="消息查找流程："></a>消息查找流程：</h3><ol>
+<li>根据offset的值，查找segment段中的index索引文件。由于索引文件命名是以上一个文件的最后一个offset进行命名的，所以，使用二分查找算法能够根据offset快速定位到指定的索引文件。</li>
+<li>找到索引文件后，根据offset进行定位，找到索引文件中的符合范围的索引。（kafka 采用稀疏索引的方式来提高查找性能）</li>
+<li>得到position以后，再到对应的log文件中，从position出开始查找offset对应的消息，将每条消息的offset与目标offset进行比较，直到找到消息比如说，我们要查找offset&#x3D;2490这条消息，那么先找到00000000000000000000.index, 然后找到[2487,49111]这个索引，再到log文件中，根据 49111 这个position开始查找，比较每条消息的offset是否大于等于2490。最后查找到对应的消息以后返回。</li>
+</ol>
+<p>若一个topic的partition数为3，副本因子为4，则在broker上一共会创建12个segment文件。kafka根据broker数量以及broker是否设置了机架信息有两种算法<br>，具体参见<a class="link"   href="https://www.iteblog.com/archives/2219.html" >Kafka创建Topic时如何将分区放置到不同的Broker中 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p><strong>日志删除策略</strong><br>参见kafka配置文件server-properties；<br>以及<a class="link"   href="https://kafka.apache.org/documentation/#compaction" >Log Compaction <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="reblance"><a href="#reblance" class="headerlink" title="reblance"></a>reblance</h3><p>什么是reblance?</p>
+<blockquote>
+<p>本质上是一种协议，规定了一个 Consumer Group 下的所有 consumer 如何达成一致，来分配订阅 Topic 的每个分区。</p>
+</blockquote>
+<blockquote>
+<p>Rebalance 发生时，Group 下所有 consumer 实例都会协调在一起共同参与，在 Coordinator 的帮助下完成分配。kafka 能够保证尽量达到最公平的分配。但是 Rebalance 过程对 consumer group 会造成比较严重的影响。在 Rebalance 的过程中 consumer group 下的所有消费者实例都会停止工作，等待 Rebalance 过程完成。</p>
+</blockquote>
+<p>具体参见<a class="link"   href="https://www.cnblogs.com/yoke/p/11405397.html" >Kafka Rebalance机制分析 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h4 id="触发机制"><a href="#触发机制" class="headerlink" title="触发机制"></a>触发机制</h4><ol>
+<li>组成员个数发生变化。例如有新的 consumer 实例加入该消费组或者离开组。</li>
+<li>订阅的 Topic 个数发生变化。</li>
+<li>订阅 Topic 的分区数发生变化</li>
+</ol>
+<h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><ol>
+<li>同一个分区中的多个副本必须分布在不同的 broker 中，这样才能提供有效的<strong>数据冗余</strong></li>
+<li>副本因子不能大于 Broker 的个数；</li>
+<li>一条消息只有被 ISR 里的所有 Follower 都从 Leader 复制过去才会被认为已提交。</li>
+<li>kafka版本的不一致，ISR follow阈值的配置策略也有所不同，具体参见<a class="link"   href="https://www.cnblogs.com/huxi2b/p/5903354.html" >Kafka副本管理—— 为何去掉replica.lag.max.messages参数 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ol>
+<h2 id="kafka-manager相关"><a href="#kafka-manager相关" class="headerlink" title="kafka manager相关"></a>kafka manager相关</h2><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>kafka manager方便管理kafka集群，通过页面提供kafka集群管理（自定义分区副本，broker选择）和监控</p>
+<h3 id="搭建"><a href="#搭建" class="headerlink" title="搭建"></a>搭建</h3><ol>
+<li>安装java环境</li>
+<li>下载kafka manager x版本包</li>
+<li>安装sbt</li>
+<li>sbt编译（该过程较慢）</li>
+</ol>
+<h4 id="集群配置参数"><a href="#集群配置参数" class="headerlink" title="集群配置参数"></a>集群配置参数</h4><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="en-resource://database/594:1"
+                      alt="8c0b8587c894107bcfd454371a800c03.png"
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="en-resource://database/593:1"
+                      alt="3d7f388eec5f1b8c55b9861b6963cc2e.png"
+                ><br>关于这部分参数配置并不了解，不做说明</p>
+<h4 id="页面参数说明"><a href="#页面参数说明" class="headerlink" title="页面参数说明"></a>页面参数说明</h4><p>仅对部分我开始不是很理解的参数作说明。</p>
+<h5 id="topic："><a href="#topic：" class="headerlink" title="topic："></a>topic：</h5><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="en-resource://database/583:1"
+                      alt="a29136b14faef596fcb5207c9e69106f.png"
+                ><br>Brokers Spread %:<br>broker使用率<br>一般情况下为100%。若broker数大于partition数，就会存在broker未能分配到partition的情况</p>
+<p>Brokers Leader Spread %:<br>topic占有的broker中，拥有超过该topic平均Leader分区数的broker所占的比重<br>若partition数为6，brokers数为4，则每个broker应当持有1~2个leader，大于此区间的即为超过平均leader分区数的broker；</p>
+<p>Under Replicated %:<br>当前topic 下的 partition，其中副本处于失效或者失败的比率<br>副本失效（失败）指不处于ISR集合中</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="en-resource://database/585:1"
+                      alt="e9fb4adab7dbd2f6dc359a4e209ac30f.png"
+                ><br>Perferred Replicas：以partition个中副本列表中第一个副本为leader所占的比率<br>例如：<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="en-resource://database/586:1"
+                      alt="45d9878b37c65f41b0e974e2a5847df6.png"
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="en-resource://database/587:1"
+                      alt="60b88e6587d51d87ddc6a74fd7b3d684.png"
+                ><br>上图中有七个partition个，其中三个partition个的leader副本不是副本中的第一个副本，所以preferred leader一栏显示的是false<br>同时可以注意到，topic summary中Preferred Replicas 为57%（刚好是是4&#x2F;7的结果）<br>ps：要求首选副本为leader似乎与负载均衡有关，因为出现leader不为首选副本说明发生了leader发生了迁移，而leader迁移可能是broker出现了问题？留疑问</p>
+<p>Summed Recent Offsets:<br>当前topic的offset总和</p>
+<p>Metrics（需kafka开启jmx监控以及kafka manager更改jmx设置）<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="en-resource://database/592:1"
+                      alt="680c321d2f80bb2637356b4df97a1215.png"
+                ><br>Message in &#x2F;sec 消息数据流量<br>Bytes in &#x2F;sec  kafka输入数据流量<br>Bytes out &#x2F;sec  kafka输出数据流量<br>Bytes rejected &#x2F;sec 拒绝的流量<br>Failed fetch request &#x2F;sec  失败的获取请求<br>Failed produce request &#x2F;sec  失败的生产请求</p>
+<h5 id="consumer-1"><a href="#consumer-1" class="headerlink" title="consumer"></a>consumer</h5><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="en-resource://database/584:1"
+                      alt="b2faeacc2a3a248cd66479fe990401df.png"
+                ><br>consumer列出的为消费者组<br>Type字段暂不知意思，只知道有两种类型：KF,ZK<br>lag：消息滞后，消息中间件服务端中所留存的消息与消费掉的消息之间的差值即为消息堆积量，也称之为消费滞后(Lag)量。理论上lag值永不为负数，但在kafka manager中可能会有负数出现的问题<a class="link"   href="https://github.com/yahoo/kafka-manager/issues/604" >kafka Lag值为负数  <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。<br>具体的计算可参考<a class="link"   href="https://blog.csdn.net/u013256816/article/details/79955578" >Kafka的Lag计算误区及正确实现 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="en-resource://database/597:1"
+                      alt="59ccdaba56b3142e08886ca2e5501696.png"
+                ><br>topic summary：<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="en-resource://database/595:1"
+                      alt="f8d84281d943e547eb12f09eb548c29d.png"
+                ><br>结合着控制台上输出的信息，我的理解是指消费者覆盖分区的百分比</p>
+<p>Total Lag：当前消费者消费topic总的数据延迟量<br>下面一栏则是该消费者组在每个分区中消费消息的状态</p>
+<p>当producer生产消息时，消费者消费，观察控制台，可见不同消费组之间互不干扰，对消息的消费互不干扰：<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="en-resource://database/596:1"
+                      alt="2bd13923c6d9966ada1259afe0745e97.png"
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="en-resource://database/598:1"
+                      alt="b042315324e496c1cba7f11c1804cebb.png"
+                ><br>此时刷新kafka manager consumer页面会发现分区的logSize，Consumer Offset发生了变化，因为未出现消息滞后，lag无变化。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="en-resource://database/599:1"
+                      alt="4179f33f40834b3720645453753c5489.png"
+                ></p>
+<h5 id="broker-1"><a href="#broker-1" class="headerlink" title="broker"></a>broker</h5><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="en-resource://database/600:1"
+                      alt="cd37896ce45fc603b3bc083344a022f2.png"
+                ><br>第一张表格显示broker信息。若broke未开启jmx监控时，JMX PORT显示为-1，Bytes In无数据，Bytes Out 无数据<br>Combined Metrics部分基本同topic，不做赘述</p>
+<p>某一节点详情<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="en-resource://database/601:1"
+                      alt="06ac87dc60418b7648259ba368779de0.png"
+                ><br>Metrics数据不做赘述。<br>Broker Id： 与server.properties文件中的broker id对应<br>因为之前生产者生产的消息指定发送到唯一的broker节点（148），所以会看到仅有该节点有数据波动<br>Port：协议+ 端口号，有PLAINTEXT、SSL、SASL_SSL，对三个协议都不了解，后续再补充</p>
+<p>Summary下参数：<br># of Partitions as Leader：所有topic下分区将该broker作为leader的数目<br>% of Message：个人理解为消息获取率<br>% of Incoming：待补充<br>% of Outgoing：待补充</p>
+<h3 id="其他-1"><a href="#其他-1" class="headerlink" title="其他"></a>其他</h3><p>当partition重分配后会显示记录<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="en-resource://database/602:1"
+                      alt="8f2784ce7a2e0850912935f733fb5230.png"
+                ></p>
+<p>Preferred Replica Election<br>同preferred-replica-election 操作，主要是应对一下场景</p>
+<blockquote>
+<p>随着时间推移，broker可能会停机，会导致leader迁移，导致机群的负载不均衡。我们期望对topic的leader进行重新负载均衡，让partition选择”preferred replica”做为leader(与前面提到的**Preferred Leader?**对应)。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="en-resource://database/603:1"
+                      alt="66d4c8b6c82387546366f103b54fd83c.png"
+                ></p>
+</blockquote>
+<h2 id="参考文档"><a href="#参考文档" class="headerlink" title="参考文档"></a>参考文档</h2><p><a class="link"   href="https://juejin.im/book/5c7d467e5188251b9156fdc0/section/5c7d467e5188251b6406e6b9" >图解 Kafka 之实战指南 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="https://tech.meituan.com/2015/01/13/kafka-fs-design-theory.html" >Kafka文件存储机制那些事 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="https://medium.com/@durgaswaroop/a-practical-introduction-to-kafka-storage-internals-d5b544f6925f" >A Practical Introduction to Kafka Storage Internals <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="https://blog.csdn.net/u011089412/article/details/87895652" >kafka manager的使用，kafka manager页面参数说明 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+]]></content>
+      <tags>
+        <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>HBase学习笔记</title>
+    <url>/2019/11/29/HBase%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://pic.imgdb.cn/item/659dfc3d871b83018ab56c04.png"
+                      alt="97eaf64220a8eef543d1e5a8ed92ff9d.png"
+                ></p>
+<h2 id="是什么？"><a href="#是什么？" class="headerlink" title="是什么？"></a>是什么？</h2><blockquote>
+<p>Hadoop数据库，一个分布式、可伸缩的大数据存储</p>
+</blockquote>
+<p>HBase有两种模式，一种是Standalone，可以基于本地文件系统存储，也可以基于HDFS存储。<br>二是Distributed，又细分为Pseudo-distributed（主要是测试用）和Fully-distributed（推荐生产环境使用）。</p>
+<p>架构：<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://pic.imgdb.cn/item/659dfc3b871b83018ab5689b.png"
+                      alt="45eb7d4a0ff7c437e130f6ed63f6f606.png"
+                ></p>
+<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p>由上图易知，先安装hadoop，再安装zookeeper，最后安装hbase。<br>按照以下基本就能顺利安装好，虽然文章的时间比较早，但并不过时。</p>
+<ol>
+<li><a class="link"   href="https://segmentfault.com/a/1190000009580427" >Hadoop 集群搭建及配置 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://segmentfault.com/a/1190000009582313" >Hbase 集群搭建 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://hbase.apache.org/book.html#quickstart" >HBase Quickstar <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><strong>这里要注意各软件之间的兼容性问题</strong>：<br><a class="link"   href="https://hbase.apache.org/book.html#basic.prerequisites" >Basic Prerequisites <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ol>
+<h2 id="名词解释"><a href="#名词解释" class="headerlink" title="名词解释"></a>名词解释</h2><p>NameNode：管理NameNode的节点<br>DateNode：存放数据的节点<br>RegionServer，一般与DateNode绑定于同一台机器，即一个DateNode对应一个RegionServer，负责管理被分配到的若干Region</p>
+<p>Region，HBase数据存储管理的基本单位，初写数据时，没有开启预分区的情况表的数据归属一个region ,当随着数据的增多，region开始变大，等到它达到限定的阀值大小时（hbase.hregion.max.filesize默认10G ），变化把region 分裂为两个大小基本相同的region。</p>
+<h2 id="HBase中的表"><a href="#HBase中的表" class="headerlink" title="HBase中的表"></a>HBase中的表</h2><p>一般数据是用字节数组来进行存储。<br>数据在表中的顺序首先按行，然后按列族（ColumnFamily），然后是列限定符，最后是时间戳（反向排序，因此首先返回最新的记录）。</p>
+<p>namespace，表的逻辑分组，一般同一组中的表有类似的用途，表和命名空间的隶属关系在创建表时决定：&lt;namespace&gt;:&lt;table&gt;。</p>
+<p>Rowkey：表的数据先根据RowKey进行字典排序，具有索引的作用，RowKey在表中是不可变的，唯一修改方法是删除再重新插入。一个RowKey可以对应多个列族。</p>
+<p>ColumnFamily：列族，在创建表的时候就固定。数据按照列族进行物理存储，对现有的表增加&#x2F;删除ColumnFamily，必须先禁用该表。</p>
+<p>Column：归属于一个列族，命名规则为列族前缀+限定符（自定义名称），因为可能存在多个version 的可能，Column本身并不确定表中唯一一条单元。</p>
+<p>Column Qualifier：列限定符，个人理解为就是要一个名字，配合着Column Family前缀名字一起使用。</p>
+<p>Cell：结构为{row key, column( &#x3D;<family> + <label>), version} ，字节码形式存储，在表中确定唯一单元，其中version是长整数，以版本递减顺序存储，即每次读取数据会先读取最新的数据。另外列只能存储最大版本个数的数据，当然每个列族可以设立不同的最大版本数，也可以设置一个全局默认的最大版本数。</p>
+<p>Timestamp: 每个Cell都有一个版本号，而时间戳是默认的版本号。当写入数据时，如果没有指定时间，那么默认的时间就是写入数据的RegionServer上的时间，当然也可以自己指定一个timestamp。读取数据的时候，如果没有指定时间，那么返回的就是最新的数据。</p>
+<p>对表或者Coulumn Family的修改会在下一次<strong>major compaction</strong>或<strong>StoreFiles re-write</strong>时生效</p>
+<h2 id="HBase读写流程"><a href="#HBase读写流程" class="headerlink" title="HBase读写流程"></a>HBase读写流程</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://pic.imgdb.cn/item/659dfc3b871b83018ab5691d.png"
+                      alt="96180b03db349ead0f3c0a5debf934c9.png"
+                ><br>由该图也可以看出RegionServer与Region的关系</p>
+<p>Region：<br>一张表会被分到若干个Region上，Region又会被分配到若干RegionServer上。每个Region都有一个startRowKey和一个endRowKey，代表Region存储Rowkey的范围，按照RowKey存放到对应的Region中（因而要实现数据均衡的存放RowKey的设计是关键），一个RowKey对应的行数据只会存放在一个Region中。<br>Region有一个或多个store，每个store对应一个Column Family。而一个store又包含一个memstore和若干个store file。每个Column Family是分开存放的和分开访问的。</p>
+<p>由Region引出Memstore，Memstore是在RegionServer的主内存中，最近接收的数据都先存放在Memstore，用于排序（因为HDFS是顺序写，不支持排序），同时因为是在内存中也可以发挥出缓存的优势（如对最近数据的修改操作仅会写入一次到Hfile中）。每一次Memstore的flush（Memstore中的数据达到设定的阈值），会为每一个Column Family创建一个新的HFile</p>
+<h2 id="Spilt操作"><a href="#Spilt操作" class="headerlink" title="Spilt操作"></a>Spilt操作</h2><p>流程：<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://pic.imgdb.cn/item/659dfc3d871b83018ab56b72.png"
+                      alt="c9eef168a9ffdf4b42f54e388dd06ac3.png"
+                ><br>Pre-splitting：</p>
+<blockquote>
+<p>一个表刚被创建的时候，Hbase 默认分配一个Region 给表，所有的读写请求都会访问到一个 RegionServer 上的唯一一个 Region。这样就达不到负载均衡的效果了.</p>
+</blockquote>
+<p>pre-split有三种算法：</p>
+<ul>
+<li>HexStringSplit: rowkey是十六进制的字符串作为前缀的</li>
+<li>DecimalStringSplit: rowkey是10进制数字字符串作为前缀的</li>
+<li>UniformSplit: rowkey前缀完全随机</li>
+</ul>
+<p>关于split详细的可参考此篇文章<a class="link"   href="https://www.yneit.com/2019/09/hbase-split-%E7%AE%80%E4%BB%8B.html" >HBase Split 简介 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。<br>。</p>
+<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>关于HBase的其他重要但尚未了解的部分</p>
+<ol>
+<li>HBase的ACID问题，同一RowKey满足事务，多行之间是否能支持事务？<a class="link"   href="http://hadoop-hbase.blogspot.com/2012/03/acid-in-hbase.html" >ACID in HBase <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>RowKey的设计问题，前面提到过表数据分配到Region与RowKey有关，RowKey在查询中又兼具索引的作用，长度的多少又会影响到Memstore的效率。<br><a class="link"   href="https://hbase.apache.org/book.html#rowkey.design" >Rowkey Design <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Memstore配置策略，如何避免频繁flush操作。</li>
+</ol>
+<h2 id="遇到的问题"><a href="#遇到的问题" class="headerlink" title="遇到的问题"></a>遇到的问题</h2><ol>
+<li>Hadoop集群搭建完成后，使用hdfs dfsadmin -report命令所有项数据都为0，网上搜索解决方案未解决，重新搭建了一遍解决。</li>
+<li>HBase启动时RegionServer无法启动，虚拟机时间同步后再重启解决。</li>
+<li></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>一周（20250317）</title>
+    <url>/2025/03/24/%E4%B8%80%E5%91%A8%EF%BC%882025317%EF%BC%89/</url>
+    <content><![CDATA[<p>看了很喜欢的一位up的杂谈，谈到习惯。习惯的力量很强大，培养出自己的习惯之后到时候了也就容易进入状态，遂想着还是要尽量每周拧巴下文字，做一个简要记录。</p>
+<h2 id="微博"><a href="#微博" class="headerlink" title="微博"></a>微博</h2><p>因为手机换掉了，以前的微博账号登不上去，想找到以前的关注怎么办呢？直接搜索同学的名字，一个不行就下一个，或者两两组合，还真被我找到了一条跟同学相关的微博，感谢12、13年我喜欢用真名做微博id的同学们。接下来就很好办了，玩微博的同学们之间极大概率是互关的，只是可能同学们也都反应过来了，现在的id基本不用真名做id了。问题不大，花点时间从列表名单一个个翻过去就是了，花了半天就锁定了大部分玩微博的初中同学，甚至其他班比较有名的同学也都找出来了，我也想起来了几个快要模糊掉的名字和一些糗事。<br>同学们的微博绝大部分都停更了，两三个还在更着日常照片。这之中最让我意外的要属班长兼舍友了，一是没想到他还在更微博（虽然锁掉了2020年之前的内容）；二是没想到曾经对二次元嗤之以鼻的他现在变成了“二刺螈”；三是创业做起了正版手办，一款国内某出圈的单机游戏女主角，一款什么魅魔学院不认识的角色，还有个啥产品忘了。从他之前的内容来看是从搞无版权的gk上岸了。说到这位同学，想起了有一次穿着地错的痛衣还被他揶揄来着，现在再看他，微妙又想笑。加上其他一些事情，我对他谈不上什么好感了。<span style="color:rgba(0, 0, 0, 0) !important">那咱就祝他不好运吧໒( •̀ ◡ •́ )७┌∩┐。</span></p>
+<h2 id="氪金"><a href="#氪金" class="headerlink" title="氪金"></a>氪金</h2><p>maplestory跟鬼灭之刃联动了，被狠狠拿捏。但运营也是不做人，联动p宠要抽（复活比普通要便宜很多）、联动头脸要抽、联动服装要抽，问题是这三样还是三个抽奖池子里的产物，要抽三种。而抽奖这东西一旦开了头，因为沉没成本和接近成功效应，很难刹住车收手，这样的状态以前也来过一次，这次因为联动又被引出来了，所以说抽奖是坏文明。看着论坛群友狗叫还真难受，抽p宠已经被狠狠收割了一波，希望其他能好运些吧，这次抽完就止氪。水逆退散水逆退散水逆退散。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://pic1.imgdb.cn/item/67e0c5e788c538a9b5c5851c.jpg"
+                      alt="好运喷雾"
+                ></p>
+<h2 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h2><p>有感这县城环境不适合我，一年多里感冒了几次，每次都蛮痛苦的，还要好一阵子才能恢复。</p>
+<p>职称今年收材料的人说计算机专业的不能走认定了，改成评审，意味着材料要调整，调整多少不清楚，带着病不舒服整了几天认定材料，又跑了宣传部、人社局去盖章，一下火气上来了，撂挑子摆烂。<span style="color:rgba(0, 0, 0, 0) !important">在省局官网根本没找到新规通知或者文件，又因收材料的人描述上感觉并非严格卡着不让你走认定的路子，连带着对他也十分厌恶。</span></p>
+<p>愈发感觉世界就是一个草台班子了，而自己也是这其中得一环，能力平平却又自视甚高。可能是又有一阵子没跑步了，少了情绪宣泄的口子，脾气也开始暴躁起来，在骑车的时候尤为明显。需要调整心态。</p>
+<p>某up几年前营造富二代人设，吃皇帝蟹等昂贵食材等起家火了几年，再看到他视频是这周末了，发了个视频说投资被骗，卖惨并推翻之前有意无意营造的富二代人设，澄清只是北京普通家庭，最后给按摩仪带了波货，有种淘宝xxx说话翻车之后哭着道歉无缝衔接带货的既视感。感想有两点：精心设计的局防不胜防，不要轻信天上掉馅饼的事；up主们对海外华人真好，油管的视频贴心剪掉了广告（犹记得另一个up恰星球杯商单的那期在油管也是无广）。</p>
+<p>汛期将至，又将是一段上班和吃饭都很麻烦的时期。</p>
+<p><span style="color:rgba(0, 0, 0, 0) !important">小学同学与小学同学结婚了，有些意外，竟然还会有点苦涩。想起了那段几年的光阴里，单纯而又单蠢得不可爱，天真而又幼稚得不可怜。如果能成熟些，或许不会现在想起来只有鸡皮疙瘩与尴尬。</span></p>
+]]></content>
+      <tags>
+        <tag>流水账</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>两周（20250331）</title>
+    <url>/2025/04/07/%E4%B8%A4%E5%91%A8%EF%BC%8820250331%EF%BC%89/</url>
+    <content><![CDATA[<p>上上周一痔疮犯了，疼得厉害，咳嗽也还没好，一说话就想咳。上气不顺，下股坐立难安，实在不想码字，两周过去好得差不多了，能踏实坐着记流水账。</p>
+<h2 id="小红书"><a href="#小红书" class="headerlink" title="小红书"></a>小红书</h2><p>我对小红书就如对微博一样，有一些偏见。但除去这点偏见，小红书对我来说又很实用，尤其这两周。一些生活和工作里的技巧都能在上面查到，像如何一人食、职场职言、学习技能、生病应对等，一般分享的也不是软广。而知乎现在它涉及消费或者说只要跟钱沾边的问题，下面的回答绝大部分都是软广告，实用价值不高，翻得累看得也累。小红书另一个就是消息灵通，年终会不会发、考公考编出成绩，一点风吹草动就能在上面窥见，比公众号之流还快。</p>
+<h2 id="抽奖止氪"><a href="#抽奖止氪" class="headerlink" title="抽奖止氪"></a>抽奖止氪</h2><p>前言的身体不适主要原因还是游戏抽奖没抽到，极大程度影响了心情与睡眠质量。又陷入了赌徒心理，跟赌徒没啥区别。游戏里的奖池概率造假很明显，“卡张”卡得厉害，要收手是真需要很强的毅力，颇有种前功尽弃意味。经过这次惨痛教训，明确了没保底机制的抽奖不碰，要冲动消费时提醒自己这种行为就是赌博。以前玩fgo也是，花了两百多没抽到，给气到没注意保暖感冒一场，还造成了其他影响。</p>
+<h2 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h2><p>海淘的克洛兹大师扩展包到了，倒出去一份，一下就把成本拉下来了，如果能再倒出去一份，那这次对我来说就是纯赚。</p>
+<p>zzz挂在了二手交易平台，卖不卖得出去无所谓了，坚决低于底价不出，也由于上面的教训，对zzz转为服务器蛀虫。</p>
+<p>下个月应该要开车来上班了，一直怕某些情况下的倒车所以没敢开，但车一直不练不开就永远学不会，还是要面对的。开车上班周五晚上也能开回家过周末。4月留意单位内外的停车情况，看视频教程，做好准备。</p>
+<p>钱借给亲戚很久了，本来想要回来去氪那个狗屎游戏，但亲戚说最近手头紧没法还，算是坏事中的好事吧，帮我避免冲动消费了。想起了另一个亲戚借了好几年的钱，亲戚一直不提，我也没要过，因为从借给这亲戚开始就从没想过要回来，当然再借也应该没可能了。</p>
+<p>年龄到了，家里也渐渐开始提结婚的事情。以前的感情经历并不顺利，最后一次已经燃尽了主动的动力，此后给自己找了个所谓云淡风轻的借口——随缘随缘。现在我的顾虑也太多，自己的遗传病、当下大环境的舆论风向、习惯的孤单生活、过去的情感经历，都是说不出口的话。<br>未曾不梦花前月下好，只恨冷霜尘垢累此身。</p>
+]]></content>
+      <tags>
+        <tag>流水账</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>两周（20250407）</title>
+    <url>/2025/04/21/%E4%B8%A4%E5%91%A8%EF%BC%8820250407%EF%BC%89/</url>
+    <content><![CDATA[<p>这两周还真没什么可写的，第一个周末两天应该有20多个小时在看小说，换了各种奇怪姿势：靠着门框看、站在阳台看、跪在床上看、侧躺斜着眼看…小说和电视剧一旦上了头就很难克制住。第二个周末小说是没看了，改成边刷剧边刷gbf边刷冒险岛，两只手忙着屏幕切来切去，这时候视频的小窗置顶播放就成了最伟大的发明。除去周末的工作日也是三点一线，没有什么有趣的事情发生，项目被搁置，工作节奏也慢下来了。听了许多老歌：周杰伦（听得最多）、Sarah Connor、、by2、曾经的非主流三巨头，都是很抓耳的经典歌。后遗症就是脑袋里会不时的自动播放音乐，让自己骑车的时候不由得哼上些调调。</p>
+<h2 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h2><p>今年的汛期似乎就要在只有几场小雨里就过去了？去年4月到6月持续了两个月的雨快把人折磨疯了，去饭堂吃饭变成了一件考验对人湿度的事，对上要填的表格不好写且麻烦，总之是一个及其不美好的经历。</p>
+<p>立夏未至，温度已经开始上来了。起初以为是闷热要下大雨，结果三天了也没动静。空调在睡觉时开始运转。闲置很久的风扇也开始上班，自上个夏天就没洗过，落了灰尘，挂了不少蛛网还是其他什么。</p>
+<p>发现京东已经上了山姆超市店，起初因为有几件想买的东西打算开它的260会员，好在在小红书上先搜了下，发现有临时租用山姆会员的服务（应该是680的那档会员每笔消费能返一点钱），几毛钱租了一个（消费完记得要把自己的地址清掉）。</p>
+<p>我向来对吃吃喝喝的二次元联动很感兴趣，前段时间的星穹kfc、绝区零必胜客，都搞了些联动周边回来。本来周六打算喝星穹联动的古茗，结果没货了，等周日调好十点闹钟去买，还是没货？于是跟客服抱怨了下，被告知联动主题的周五已经全部售罄，一个几天的联动第一天就卖完了还是第一次见。</p>
+]]></content>
+      <tags>
+        <tag>流水账</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>再也不见，2019</title>
+    <url>/2019/12/31/%E5%86%8D%E4%B9%9F%E4%B8%8D%E8%A7%81%EF%BC%8C2019/</url>
+    <content><![CDATA[<p>这几天，小镇天气阴沉，没有往日的灿烂阳光。最惬意的事情莫过于听着窗外小雨的嘀嗒声，看看书玩些游戏吃点零食。</p>
+<p>转眼就迎来了2019的最后一天，不知不觉里个人博客磕磕盼盼运行了一年，这一年文章的主要产出在后半段时间，基本保持着每月两篇左右。两个多月没有去打理，刚上去看了眼图片因为https证书过期基本都失效了。本想着在2020之前上线一个新的博客版本（前后端代码重构），可惜重构到大约70%的时候，又跑去做别的事情了，争取2月份发布新的版本吧。新版本的前端页面已经解决了我之前一直苦恼的<strong>页面打包之后样式发生了变化</strong>以及更规范了，后端逻辑也重新理了一遍，还算满意。</p>
+<p>2019的前半部分时间印象里没什么有意思的事情，这期间又重新跑去玩了下童年回忆——赛尔号。主线还是找实习，然后跑深圳实习租房挤可怕的地铁。实习期间也没什么有意思的事情（作为宅男，最有意思的事情也许是宅在宿舍里），就是让我发现作为一个路痴，出行时地图app必保持最新的版本。</p>
+<p>后半部分时间大部分也是在实习，只不过是从深圳转到了广州，得益于公司与学校的地理位置与交通便利，通勤没有在深圳的那般阴影。10月份有感于在大学的时间不多了，于是便开始周末不时读读书籍充电，读到了两本非常喜欢的书：《哈利波特与魔法石》和《时间旅行者的妻子》。期间又参加了一次电玩展的志愿者活动，保持着中奖绝缘体的体质。12月份辞职，除去博客的重构，就是在搞毕设的事情。哦，因为自己拖拉的毛病 ，没及时跟公司签合同，工资少了几千块钱，甚是心痛，引以为戒。</p>
+<p>既然提到了19年喜欢的书，就提其他自己喜欢的。这一年玩的最久的游戏是碧蓝幻想，有过热情退却期，但今年手游玩了一圈，还是碧蓝幻想优秀些。喜欢的番是《慎勇》，可惜小说后面的剧情因为自己手贱的缘故被剧透完了，所以对动画后续期待值也没多少。喜欢的音乐硬要选一个的话《红色高跟鞋》，搭配桥本环奈的二创视频，爱了爱了。喜欢的电影《邻家女孩》（其实本名或许《邻家女优》更准确），个人是偏爱喜剧类的电影。喜欢的剧是《庆余年》，卡司阵容有牌面，剧情是一个我没想到的神奇脑洞。</p>
+<p>今早吃完早餐，路过小学母校，站在门外看了一会操场上热身的学弟学妹。看到已然斑斑白发的校长，想起了主席那句“世界是你们的，也是我们的，但归根到底是你们的”。小学的记忆逐渐在思绪里铺开（且让我唠叨一二）：上学是数着日子过的，都在期待周末，沉迷游戏王，自编自导剧本，玩具是我的演员；和两个死党打乒乓球，街机厅里打三国战纪，黑网吧里4399双人游戏搓键盘……还有半年就要告别学生时代，于我而言更多的恐惧（大概是毕业就业恐惧症吧）,实习前就已经不舍得这大学剩余的时间，想着象牙塔的好。或许不用几年，我就会向现在看小学一样，看别人的大学生活时，就会想起平时并不有感触的大学平淡日子里的种种。李商隐有诗云：“此情可待成追忆，只是当时已惘然”。</p>
+<p>今年最明显的变化是体重上去了，20斤左右，对我这个竹竿子来说是一件好事情，不过尴尬的是小肚腩开始凸显，起初同事提起的时候没在意，以为是吃的太饱撑得，结果后面发现这肚子并没有要收敛的意思，才恍然大悟。2020年，消灭小肚腩，变成八块腹肌吧（笑）。记得小学时校长不知在什么课上说的人有四点应该学会：1.书写优美；2.会开车；3.会折腾电脑；4.会说话；就以此作为我对2020年的展望。</p>
+]]></content>
+      <tags>
+        <tag>总结</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>博客开发复盘(旧)</title>
+    <url>/2018/12/17/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%8F%91%E5%A4%8D%E7%9B%98%EF%BC%88%E6%97%A7%EF%BC%89/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>本文主要谈谈代码部分，给自己做个总结，顺便给自己未来挖些坑。项目是前后端分离的，理论上来说只要知道接口更换后台是没有什么问题的。</p>
+<p><a class="link"   href="https://github.com/fxyJAVA/vue-blog" >前端博客页面 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。<a class="link"   href="https://github.com/fxyJAVA/vue-blog-admin-simple?tab=readme-ov-file" >后台管理页面 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。<a class="link"   href="https://github.com/fxyJAVA/biliob_backend_study" >后台代码 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</p>
+<h2 id="运行环境："><a href="#运行环境：" class="headerlink" title="运行环境："></a>运行环境：</h2><ul>
+<li>服务器：阿里云（学生优惠每个月9.9元）；</li>
+<li>os：centos 7.2 ；</li>
+<li>jdk：1.8 ；</li>
+<li>mysql：5.7；</li>
+<li>nginx：1.4；</li>
+<li>tomcat：8.5;</li>
+</ul>
+<h2 id="后台"><a href="#后台" class="headerlink" title="后台"></a>后台</h2><p>后台方面主要使用了spring boot框架，持久层使用了mybatis（填坑之一：一般项目里持久层怎么选择？mybatis还是jpa?），缓存使用的是ehcache，数据库使用的是mysql。一些工具包的使用参考了halo博客，如hutool</p>
+<h2 id="前端"><a href="#前端" class="headerlink" title="前端"></a>前端</h2><p>前端主要使用vue框架，vue给我的感觉犹如后端之spring boot。因为偏爱bootstrap的响应式，所以也引入了jquery和bootstrap。css动画用了animate动画库。图标用font-Awesome。懒加载vue-lazyload。后台管理页面主要是在vue-element-admin上做的二次开发。代码高亮。用的是highlight.js。写到这里想想前端很大一部分扩充知识或者说想法来源于<a class="link"   href="https://2heng.xin/" >樱花庄的白猫 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</p>
+<h2 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h2><p>vue页面打包后将dist内的文件全部拷贝至服务器某个位置，配置nginx服务器指向该资源（这个其实网上很多资料了犹豫到时到底要不要写。填坑之一：nginx http转成https，跨域，获取真实ip问题），到这一步就可以通过服务器ip加端口就能访问到页面了。接着只需要 再将后台部署上去即可。将后端项目打包后放到服务器某个位置，我这里是用jenkins做的部署，关于jenkins部署，网上有很多详细资料（我自己应该不会填坑）。jar包放到服务器之后后台运行指令：nohup java -jar xxxx.jar ;到这一步，前后端还不算联通，需要我们在nginx上做些配置，如下图：<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://pic.imgdb.cn/item/659c9d56871b83018a6f8858.png"
+                     
+                ></p>
+<p>rewrite是一个匹配的正则表达式，proxy_pass后面跟的后台地址以及端口号<br>配置重启nginx，博客页面和后台就对接完毕。</p>
+<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>为了提高网站的访问速度，做了小处理：首先路由懒加载必不可少，其次是组件懒加载。图片资源先进行压缩，再上传到图床网站，我这里用的图床是SM.MS（之后切到了又拍云上），压缩网站是TinyPng。这两个都不确保其可靠性和安全性。哪天图床挂了估计够我折腾一阵子，所以上传的图片都得做一个备份。一些js和css引入用的都是外链形式。评论获取qq头像和接口用jsonp跨域调用别人的接口，想用nginx做反向代理但是出错了，所以改成了jsonp。<br>后端接口防爆破是通过全局过滤器实现，接口限流，部分接口做了缓存处理。</p>
+<h2 id="不足"><a href="#不足" class="headerlink" title="不足"></a>不足</h2><ol>
+<li>没有把导航栏做成动态路由形式的，所以这部分修改时有些麻烦，之后可能会修改下吧。</li>
+<li>页面访问速度还是很慢。</li>
+<li>留言和回复没有做成一张数据表是一大失误，导致数据冗余不说，也直接导致了前端评论部分的代码不能直接封装成一个组件，需要在两处复用，修改非常不便，大部分情况下要改两次</li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title>回村过年</title>
+    <url>/2020/01/25/%E5%9B%9E%E6%9D%91%E8%BF%87%E5%B9%B4/</url>
+    <content><![CDATA[<p>上一年因为要早点回学校做事情，所以留在惠州过年。这次则是妈念家心切，于是决定回湖南过年。</p>
+<p>因为新型传染病毒的缘故，高铁站里大家基本自觉的带上了口罩，稍稍心安。回家的旅途是枯燥的，座位在过道边，再加上冬天昼短夜长，天早早黑下去，无法一览窗外倒退的景色。只好拿起手机看会《庆余年》，听着轻音乐，半醒半睡中，结束这四小时的旅旅程。</p>
+<p>到长沙之后，堂弟新置了车，又刚好放假，便过来接我们。他这几年的变化和我印象里差别不大，性格一点没变，大大咧咧，心态好，说话也不含糊，这一点我一直希望能学到。山路铺过沥青，虽不崎岖，但坡度夸张，颇有过山车的既视感。爬到山峰顶时，山路十八弯，堂弟的车技毫无保留的释放，在夜晚群山上起舞。前面已是雾凇一片，可见度只有两三米，不自觉打开窗，铺面而来的空气，凛冽而清新，我想着在这里住倒是养性。到舅舅家时已经快晚上十点了，爷爷（外公）一如以前，快到时会在路上候着。每次回家，都会推迟爷爷的睡觉时间，他总会煮好一锅汤，烧几个菜候着，不时就要问问我们到哪了。</p>
+<p>在舅舅家中的日子，天气冷但不如以前，未起雪花，单衣穿件羽绒服就能抵御。因为环保政策，禁烟花爆竹，过年少了记忆中12点响彻不停的爆竹声，五彩烟花。又逢冷雨连绵，村里的篝火晚会都取消了，实在不尽兴。当然，不管在哪里，牌场不受风雨，新型病毒影响，依旧是灯火通明，烟雾缭绕。临睡前是麻将声，造早晨起来也是麻将声。</p>
+<p>游戏里团战开始了，打团同时了解qq群、微信群、微博上的消息。关于肺炎众说纷纭，看的让人迷离。刷到微信一个小资好友在那发牢骚，大意是说广东年后应该封城，不然自己年后上班不安心云云，于是选择了不看也不让看。春晚照旧流量为王，加上武汉的新闻，我实在没什么心情看。难忘今宵，倒是共通的，只不过是一喜一忧罢了。</p>
+<p>初一走亲戚，道一声“新年快乐”或是“过年好”。亲戚家基本都在一个村里真的就只是走马观花般———见面拱手礼问候一声再到下一家，如此反复。之后我想也是这样吧，只是走亲戚的距离远了，需要开车过去。</p>
+<p>湖南人比父亲那边比较重感情讲礼数，邻里交流往来频繁。我们不记得一个亲戚家的具体位置时，附近邻居就会过来热心问是找哪家人，妈说的是亲戚的外称（外号）也能知道是哪家。包红包的多少、包给谁也十分讲究。我对这种习俗不感冒，没太上心，结果走亲戚的时候听到说我给亲戚谁谁买了条烟抽，一脸懵逼，但脸上还是挂着不失礼数的微笑，想来应该是父母以我的名义送的烟吧。自己也快二十有三，不再是那个可以向叔叔阿姨伸手讨红包的年纪，眨眼成年了，即将步入社会工作，倒是自己要孝敬长辈。对人情世故还是得多上点心，免得礼数不到自己浑然不知，弄得长辈心里也失望不舒服。</p>
+]]></content>
+      <tags>
+        <tag>无稽之谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>回家路上</title>
+    <url>/2019/09/06/%E5%9B%9E%E5%AE%B6%E8%B7%AF%E4%B8%8A/</url>
+    <content><![CDATA[<p>9月4日公司三面完申请暂停实习流程。晚上回去前与朋友到楼下奈雪的茶买了一直想试试口味的面包。面包本身一般，与平时便利店买的口味口感差不多，除了好看之外，没有突出之处。因为奶油的甜味导致上面的草莓吃起来很酸，吃的时候面包缝中的奶油也掉了一地。分量比较多吃撑了，比平常晚了一小时入睡。</p>
+<p>现在已经习惯了上班的作息时间，早上基本7点半左右会自然醒，看了眼手机还早，又倒头补觉。<br>本来决定做完这两天的笔试周六回家，但又想今天的笔试不是太重要还是早点回吧，于是收拾行李。等到正要走时，专项课程的老师发来消息让我们到工学楼那边开会领取任务，只得轻装上阵，将行李压缩成一个书包的容量，途中身份证忘记拿了在去开会还是回宿舍去拿身份证纠结了好一会。</p>
+<p>开会的老师好讲话，遵守原则，不管学生什么原因未到场，他都正常记录考勤，但又不会计入最终的成绩里面，对学院安排给他的任务认真对待，针对特殊情况，本人也说愿意额外花时间沟通，但仅限于语音沟通，而不是通过im打字沟通，蛮有意思的。</p>
+<p>回宿舍的路上想起小黄本（记录校内活动时长的本子，每年校内活动需要满50个小时，校内活动则是指参与社团活动，去听讲座，参与学院，学校举办的比赛等活动，参与活动的人都会获得一张学院盖章，写有时长数的时长条，这些时长条需要贴在小黄本上作为证明。而每年这个时候二手交易群里就会出现一批出售时长条的投机者，出售价格在1~50元不等的时长条）这学期需要交上去检查，才发现自己这一年时长条基本没整过，还有同样重要的校外时长（与校内时长对应，在寒暑假参与无偿活动满50个小时，要求除大四外每年一次）也忘记找老师盖章了，不过万幸朋友那有章可盖。</p>
+<p>说到这，吐槽下这个校内外时长制度吧。学校本意可能是想让学生多多参与校内活动丰富下，校外多些社会实践经历。结果呢，先是时长条泛滥，导致每年都有投机分子卖校内时长条。再者就是没有时长条的同学又不愿意花钱去买别人手上的条子的话，可以拿朋友手上的时长条去彩印，也就是伪造，质量好的彩印基本与真的时长条无区别，毕竟这东西也没防伪技术，很难区分真假，加之审核不严基本都能过关。校外时长也不难，一个盖章的事，胆子大点的淘宝就能解决。基于上述原因，时长条制度基本形同虚设，规则也只是框住老实人或者大一纯粹的新生们。</p>
+<p>回宿舍把事情处理完再出门已经是一点半了，太阳正顶在头上，穿着黑衣没打伞，只能迫使自己走快些。地铁内善意的大叔提醒我书包链没有拉好，我却在地铁三号线没有给一位孕妇让座。书包很重，我的目的地又是列车的终点站，让座就大概率得一路站到底，想想实在有些累，于是选择了沉默。</p>
+<p>高铁并未通到市内，回家主要还是坐大巴，这意味着你得忍受着大巴车那浓浓的皮套味道，特别是在夏天，被太阳晒过之后更是难闻。大巴刚走没多久。一个大概五十多岁的男人好像因为有东西落下了，跟司机说要下车，司机说下车就不会再等他了，男人表示自己会再买票的不用他等，我拉开车窗帘，看着那个离去的男人，对司机的厌恶多了几分。因为大巴车确实没走多远，等一等男人去拿东西我也是能接受的，毕竟车票也不便宜。</p>
+<p>下午三点多，饿了么会员被自动续费了，想着自己用不着就拿来给几个朋友点外卖吧，也算兑现了发工资请客的诺言。（2023年留，对我而言，这就是记录的意义。那天的碎片在脑海里闪现。如今当时的朋友们各奔前程，少有联系了）<br>关于饿了吗，之前看牛客还是脉脉说，阿里他们自己内部的员工也不怎么用饿了吗，都是美团居多，恐怕所言非虚。饿了吗反人类的设计不知道他们的产品经理是怎么想出来的，不知道自己的软件有多难用？</p>
+<p>先是支付的时候你有会员红包，但并不能直接使用，因为需要你先到会员界面领了红包再去下单才有显示；再一个就是进入店家商品详情页后，只要你不是点左上角的“&lt;”,就默认你是退出当前店家而不是返回菜单。第三个就是红包，会员红包升级之后，使用完了想再次把剩下的会员红包升级时，你会发现并不能升级了(针对同一家店)，因为那里会显示已升级了让你立马去使用，但问题是我想继续升级啊（关于这一点不清楚美团是否是这样）。第四点就是饿了吗商家数量及质量远不如美团外卖，能吃的店寥寥无几。最后一点就是数据分析推送吧，互联网通病——信息茧房。美团和饿了吗根据你之前的订单记录，推送给你类似的店，你下过订单的商家，总是出现在搜索列表的前几项里，这一点我不喜欢，减少了新店家被我发现的可能，时间久了看着列表上面的那几家熟悉的店吃饭的胃口都少了几分。</p>
+<p>回到家已经五点多了，离当天笔试开始也没多少时间了，洗了把脸逛逛牛客，看看贴吧，时间也差不多就过去了。</p>
+]]></content>
+      <tags>
+        <tag>无稽之谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>培训与考试</title>
+    <url>/2024/08/16/%E5%9F%B9%E8%AE%AD%E4%B8%8E%E8%80%83%E8%AF%95/</url>
+    <content><![CDATA[<p>去了市台参加培训和考试，在县城呆久了突然到市区是有点刘姥姥进观园的意思，高楼拔地而起，走在之中感觉到自己的渺小，再次体会到了第一次去珠江新城时的感受。培训时很贴心的在后面桌上放了零食水果饮用水，解了中午没吃饭之困。培训内容乏善可陈，老师还要去其他地方培训，时间不多，只能就过一遍考试考点，实操课还是其他参加培训又比较懂设备的兄弟单位和市台职工边研究边教学。安排的附近酒店住，室内环境不错，运气也不错，分配到的房间是泳池上面，面对着东江与施工中的鹅城大桥。池子应该有段时间没维护了，自然是没人游的，可惜了。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://pic1.imgdb.cn/item/67e0d65388c538a9b5c597ba.jpg"
+                     
+                ><br>我参加的科目培训完时间还早，同事那边还没结束，我把房卡给他了，身份证也没带回不了房间，只好在附近走走，没逛出个味来。又回到了培训室坐着，还好后排的零食还在，吃些东西刷下手机时间也就过去了。第一餐晚饭我吃得很尬尴，晚上上来就是一顿大餐，可能是中午没好好吃饭，肠胃顶不住开始闹腾，明明食堂就有厕所，我还舍近求远地跑到楼下去找厕所。有个人对某道菜发表了自己的看法并认为他说的才是正宗吃法，结果不知为什么，市台接待人叫住了上菜的员工，评菜的人跟饭堂员工就吃法小争了一番，替别人尴尬的毛病又犯了。引以为戒，非必要不对事物发表自己的主观看法，不与人争论。后面几餐肠胃缓过来了，没有折腾我，吃得蛮舒服的，也无什么插曲发生。广电大包属于我每餐必要吃上一两个的，只吃了叉烧包，其他口味没尝过，有机会试试。也听接待人介绍了下，广电大包是师傅早上很早起来买好新鲜食材做的，数量有限，基本能卖得完。价格也不贵，小程序能下单广电大包手礼，单位员工买包子一个能优惠五毛还是一块，。</p>
+<p>第三天早上起床喉咙有些痛，不出意外每当我觉得是上火时就一定是感冒了。考试的内容基本就是老师培训ppt上的，难怪老师对于分享ppt这件事有顾虑，找了借口回绝了。靠着啃老本，应付了几道计算机的题，其他题纯看运气和一些过往经验猜了。考完试是中午了，没安排用餐差点意思。空着肚子跟同事们搭顺风车回到县城已经两点多，在同事家附近找了家糖水铺吃饭，还没吃完身体不适的感觉就愈发强烈。出门明明是阳光明媚，也没刮风，却感觉阴冷，精神也有点恍惚，问了同事，他也有些症状。万幸下午不用再回单位，回屋冲了杯感冒冲剂就窝被子里了。</p>
+]]></content>
+      <tags>
+        <tag>流水账</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>总结和计划</title>
+    <url>/2019/08/04/%E6%80%BB%E7%BB%93%E5%92%8C%E8%AE%A1%E5%88%92/</url>
+    <content><![CDATA[<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>bigo实习一个月，总体来说体验良好，学到了一些东西如监控系统，TSDB数据库，nginx实现权限验证（这个本想今天写一篇文章单独总结一下的但时间不够了只能拖至下周末），但是业务上没被分配做什么事情，不像前端的同事能做些比较实在的东西，心里不安（危机感，哈哈）。</p>
+<p>博客方面要修的bug比较麻烦，前端页面打包放到服务器上样式就有些出入，这个困扰了很久，问了几个前端的朋友都说没遇过这种情况，头大。（2023留，只记得解决了，但不记得是怎么解决的）</p>
+<p>另一个是后端的缓存设计问题，spring cache本身太局限，不好控制缓存的细粒度，看了看网上的资料要用aop才能满足自己的需求。另一个就是评论过滤的问题，文本现在就一个注入过滤，其他的比如敏感词过滤就没有，查了资料，计划用字典树压缩敏感词内容读到内存去。博客订阅暂时不会弄，数据统计方面现在去掉了百度统计，考虑替换成谷歌的……还有一个就是vue页面seo的问题，现在网站根本就没法被搜索引擎爬到，这个也是一个大坑。</p>
+<h2 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h2><ol>
+<li>准备转正答辩和秋招，加强下英语能力。</li>
+<li>博客页面的重构计划放到秋招之后，因为对我来说是个大工程。还有两个坑…视频弹幕网站和云笔记两个项目想做做。</li>
+<li>游戏娱乐：就碧蓝幻想</li>
+<li>书籍阅读。主要的书：地错，加速世界，蝇王，雪中悍刀行，长安十二时辰。</li>
+</ol>
+<h2 id="2023"><a href="#2023" class="headerlink" title="2023"></a>2023</h2><p>那时转正答辩顺利，秋招没怎么准备投了几家就懈怠了，英语也是在工作中才有了点进步，平时没去弄。</p>
+<p>计划写得惭愧，4年了，至今弹幕网和云笔记连新建文件夹都没有。弹幕网放弃了，云笔记可能倒有需求。</p>
+<p>碧蓝幻想至今也还有玩，倒是想不到。</p>
+<p>书籍 蝇王买了没看，雪中悍刀行看了几页因为一处描写没再看下去（买的全套书籍也吃灰了好久）</p>
+]]></content>
+      <tags>
+        <tag>总结</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>新博客伊始</title>
+    <url>/2023/12/21/%E6%96%B0%E5%8D%9A%E5%AE%A2%E4%BC%8A%E5%A7%8B/</url>
+    <content><![CDATA[<h2 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h2><p>脱离it开发行业之后，印象笔记就再也没打开过了。最近在重启博客，又把印象笔记下了回来，云服务的优势就体现出来了，不会受设备变更或数据损坏影响，迁移也方便。看着以前的笔记、文章安然躺在各个类目下，我的心情也有点泪目。</p>
+<h2 id="关于原博客"><a href="#关于原博客" class="headerlink" title="关于原博客"></a>关于原博客</h2><p>最初搭建博客的原因一是某天看到了个很漂亮的博客（<a class="link"   href="https://2heng.xin/" >樱花庄的白猫 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>），刷新了我的感官体验，原来博客还能这么玩？让我产生要做博客的念头(看ta博客也让我对生活多了几分极客的追求)；二则是当时大二还是大三没做什么有意思、值得吹水的独立项目，感觉博客系统从后端到前端技术上都很有搞头，可以试试；最后则是作为轻度社恐寻求在网络一角倾泄脑中的胡思乱想，现在看来是一个正确的选择。</p>
+<p>建博客的过程不是很顺利，折在写前端上了。自己前端太菜，第一版离预期差的十万八千里，移动端打开没眼看。后面找资料和向师兄请教后，模仿着上文博客删删改改和套一些框架、工具库，才搞出了第二版。似乎是在这里花的精力过多耗尽了热情，博客的后台管理页面偷懒拿github上的模板改了改就用。</p>
+<p>后端代码还算顺利，没踩多少坑，陆续加了接口限流、登录保护、敏感词过滤、邮件通知、支持markdown语法等功能。博客上线后，有段时间能每月有两三篇产出，记录日常，发发恼骚，收录文章和网站。可能页面优化太烂，现在去<a href="">Internet Archive</a>找了下记录，打开只有一个空白页，很遗憾。</p>
+<p>博客停运则是20年入职后自己给自己的压力太大，没状态更新；再则是毕业了阿里云没有学生优惠，网购葛朗台心里很不舒服。博客的事情抛之脑后，期间阿里云几次短信通知要及时做好服务器数据的备份，我也懒得搞，现在重写博客了没存档挺可惜的。</p>
+<h2 id="关于新博客"><a href="#关于新博客" class="headerlink" title="关于新博客"></a>关于新博客</h2><p>重开博客主要基于现在和未来工作的需要，应当勤思考和多练笔，文笔或许不能很快提上去但应该能明显改善语言组织能力。整理以前写的东西，愈发感觉羞耻和写作能力堪忧，对过去的流水账删删改改花了很多时间。</p>
+<p>本着能省则省原则，目前是用github来构建博客，节省掉服务器的开支，以前用的域名涨价了，得换个便宜的域名。不再做什么前后端分离的全栈，用现成的博客框架hexo，clone了一个风格不错、文档齐全、近期有更新的主题。github国内访问不稳定，我自己不借助工具时能访问时而不能，计划搞个码云仓库。评论系统也是，waline用的国际版，不借工具没法使用和看评论，等域名申请下来了好像能解决。</p>
+<h2 id="期望"><a href="#期望" class="headerlink" title="期望"></a>期望</h2><p>工作变动后，能掌控的时间相对多了些，希望能把博客做好。</p>
+]]></content>
+      <tags>
+        <tag>总结</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>核聚变志愿者初体验</title>
+    <url>/2019/11/17/%E6%A0%B8%E8%81%9A%E5%8F%98%E5%BF%97%E6%84%BF%E8%80%85%E5%88%9D%E4%BD%93%E9%AA%8C/</url>
+    <content><![CDATA[<p>9月报名，11月初收到通知，于是有了此番两天半的机核志愿者体验。</p>
+<p>虽然博览馆来过几次（核聚变和萤火虫广州这边基本是在同一个地方办展子），但是依旧会感觉新鲜。跟漫展不同，展会以电玩为主题。跟我负责一块区域的几个志愿者就是电玩发烧友，来展会也是为了能提前体验以及拿到纪念品。，我则是个伪主机玩家，玩的主机游戏不多不少，但通关的寥寥无几，在跟他们聊天时有些梗get不到或者话题接不上，特别是跟机核文化有关的人与事，是真的一脸懵逼。平时机核文章看的少，偶尔看看新游资讯评测之类的，对机核社区文化并未深入了解。</p>
+<p>志愿者负责引导所在展区的玩家，大部分时间都没得坐，站着的时间久了就会明显感觉到腿部的酸痛，腿会不自觉的弯曲来放松。好在没有遇到难应付的玩家。绝大部分玩家体验完游戏都会自觉举手，不会赖在那再玩一遍耽误后面排队的人。偶尔队伍里会有漂亮的女玩家、有趣的coser（社牛的还会跟你互动下）、不认识但似乎有些知名度的游戏up，给重复枯燥的工作增添了一点乐趣。</p>
+<p>展会能玩到些开发中的游戏。我负责的b站区有两款游戏是还没有发行的。其中一款我还蛮期待的——<a class="link"   href="https://indienova.com/g/zhanyaoxing-2" >《斩妖行》 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，2d横版类魂游戏。我对2d横版游戏毫无抵抗力，没到开展时间前就玩了不少次。对于我这种半手残玩家来说体验关难度还行，没花多长时间就打通了。另外在wegame区玩到了之前一直期待的游戏——<a class="link"   href="https://indienova.com/g/neonabyss" >《霓虹深渊》 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，横版加 roguelike像素风游戏，同样是无法抵抗的诱惑，模式基本同以撒的结合，都是进房间，清怪开箱子，换装备，一套装备成型就开始突突突。还有款其他展区没体验上的游戏——《钻头派对》，大乱斗模式的格斗游戏，画风不错。</p>
+<p>展会似乎还有不少有趣之处？比如展台上的二维码是一个ARG解密游戏，看了机核上的<a class="link"   href="https://www.gcores.com/articles/116890" >解密文章 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>我才知道这么一个有趣的解谜游戏。又比如大表哥“亚瑟”以及游戏制作人五十岚孝司空降机核主舞台，挺意外的。只是可惜，我只能在远处眺望等。这样的遗憾或许明年工作以后核聚变碰上双休日才能弥补吧。</p>
+<p>机核展会和漫展倒还是有几个共通之处：场贩很贵，同样的商品要比线上贵不少；需要长时间罚站，亚文化虽小众，但一次活动聚集的人不少，没什么能坐下来休息的地方，可能跟商超设计思路一样吧；coser、表演、玩梗很多。</p>
+<p>两天下来，身心疲惫，又是周末，还得搭地铁返校。这次做志愿者的收获就是两餐盒饭和一堆纪念品（纪念品里的羽衣质量很差，一模就能感觉出来，跟贩售品完全没法比）。以后恐怕没机会也不会再体验了。</p>
+<p>最后放张合照留念。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://pic.imgdb.cn/item/659de940871b83018a84cc93.jpg"
+                      alt="核聚变全体工作人员"
+                ></p>
+]]></content>
+      <tags>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>浅聊彩蛋</title>
+    <url>/2019/09/29/%E6%B5%85%E8%81%8A%E5%BD%A9%E8%9B%8B/</url>
+    <content><![CDATA[<p>看到某篇文章里提到了google搜索的彩蛋：搜索“灭霸”时，右方会出现“无限手套”，点击手套时页面显示数据会随机消失一半，显示的总收集数据也变成了一半。当再点击手套时，消失的信息又会显示回来。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://pic.imgdb.cn/item/659ce44b871b83018a4d79d3.gif#width-full"
+                     
+                ></p>
+<p>当然，除了“灭霸”，还有其他如“Sonic The Hedgehog”，“Super Mario Bros”等。<br>彩蛋，百度百科解释为源自西方复活节找彩蛋的游戏，是指影视中不仔细寻觅，会被忽略的有趣细节，以及片尾追加的演出内容。趁此就简单聊聊我印象深刻的彩蛋。</p>
+<h3 id="游戏中的彩蛋"><a href="#游戏中的彩蛋" class="headerlink" title="游戏中的彩蛋"></a>游戏中的彩蛋</h3><p>守望先锋。漓江塔地图的宇航服上胸口处写名字“宏宇”，宇航服背后的墙上写着“英雄不朽”。<a class="link"   href="https://zh.wikipedia.org/wiki/%E5%90%B3%E5%AE%8F%E5%AE%87" >了解吴宏宇 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。另一个就是花村的街机厅，从里面的画面可以窥见合金弹头，街霸，FC冒险岛。<a class="link"   href="https://www.gcores.com/articles/22060" >花村的游戏店里究竟有什么游戏？ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>口袋妖怪。关于该游戏最早的彩蛋应该是宝可梦-梦幻。起初是程序员也是梦幻的设计者通过清理垃圾数据而偷偷塞进的私货，需要特通过程序错误获得。但并不是当时的每台game boy上都可以通过此方式获得，加之最初官方的不承认，导致当时的玩家群体里流传着“梦幻”的各种传言。另一个彩蛋则是最近才知道的-居合斩。这本来是一个可以用来清除部分路障的技能，但是后面被发现居合斩还可以用来割草（草，指的是一种踩雷模式，玩家行走在草地上会有几率触发战斗）。</p>
+<p>艾希。艾希中最有意思的彩蛋实属调戏旁白了。刚开始可能以为旁白只是一个照本宣科的设定，但是当你开始违背旁白的意愿行动或者在某处死了很多次时，就会触发旁白对你的吐槽。还有制作者夹杂着私货的隐藏图，如某张图是宣传另一个游戏“汐”，某张图又贴着不记得是哪个女团的海报等。</p>
+<h3 id="电影中的彩蛋"><a href="#电影中的彩蛋" class="headerlink" title="电影中的彩蛋"></a>电影中的彩蛋</h3><p>漫威系列的片尾彩蛋以及被网上各种解析的剧中穿插彩蛋的头号玩家就不用多说了。</p>
+<p>冰雪奇缘。这是高一在音乐课上看的电影，但现在才知道里面原来也有彩蛋：魔发奇缘的主人公参加公主的派对；无敌破坏王中的巧克力；书架上的米奇（这个都能发现是真的强）。这里不放图了，具体可参考<a class="link"   href="https://news.gamme.com.tw/661740" >关于《冰雪奇缘》你可能不知道的事 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>火影忍者。剧场版the last的彩蛋很温馨，片尾刚好和tv最后一集鸣人结婚呼应，能看到婚礼上的其他角色形象，当然还有最后鸣人一家四口的温馨场景，算是了却了老粉的一个心结。博人的剧场版彩蛋则是回答了观众新生代三人组除了鸣人之子，佐助女儿之外的第三个人的身份-大蛇丸的仔，还有就是直到片尾过场才从水里爬出来的奇拉比给观众报了个平安。</p>
+<h3 id="代码中的彩蛋"><a href="#代码中的彩蛋" class="headerlink" title="代码中的彩蛋"></a>代码中的彩蛋</h3><p>安卓。印象最深的就是一直点击安卓手机里的版本号，就会弹出一个界面，我当时的机子显示是：<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="http://inews.gtimg.com/newsapp_bt/0/2431058550/641"
+                     
+                >,点一下就会出现五颜六色的豆子（糖果？），后来才发现这个彩蛋有很多个版本。</p>
+<p>当没有网络时使用谷歌浏览器会出现一只小恐龙，你只要按下空格键，就能开启一段强迫症的刷分历程,从白天玩到黑夜。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="http://2.bp.blogspot.com/-FqElR8Z0X8E/VIG80MCD0QI/AAAAAAAARpY/oboztYCpfHo/s1600/google-chrome-dinosaur-game.gif"
+                     
+                ></p>
+<p>甚至只要你有素材可以给这个游戏换个皮肤，比如加入马里奥，索尼克。<a href="https://www.youtube.com/watch?v=besQJCZ20j4#width-full"><br>Google Chrome恐龍小遊戲不為人知的祕密! 原來還可以替換角色</a>))</p>
+<p><a class="link"   href="https://www.vgtime.com/topic/823994.jhtml" >任天堂switch彩蛋 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。当在日本时间7月11日时，你手持joy-con模仿岩田聪的标准手势之后，就会解锁隐藏游戏《高尔夫》。</p>
+<p>Antd UI框架。这是彩蛋的一个反面教程。使用了该UI框架的网站在圣诞节当天会触发这个彩蛋，页面的样式中会出现圣诞的元素，导致按钮组件出现积雪效果，“ho ho ho!”字样的提示。刚开始看到这个新闻的时候，我还想着挺有意思的，但是后面看了社区讨论后才意识到事情没那么简单，严重点可能会引发社区的信任危机。<a class="link"   href="https://www.zhihu.com/question/306858501" >如何看待 Ant Design 圣诞节彩蛋事件？ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="彩蛋的意义"><a href="#彩蛋的意义" class="headerlink" title="彩蛋的意义"></a>彩蛋的意义</h3><p>游戏中的彩蛋一般多是其他元素乱入，比如守望先锋总是会乱入自家其他游戏的元素；又或者是对游戏部分人物，事件的暗示或隐喻，像dnf中的装备描述就藏了不少人物剧情，像inside这种没有多少文字描述的游戏更要依赖游戏里的彩蛋去推理故事全貌；再或者就是为了给游戏添上一抹神秘（灵异）色彩，印象最深的是太鼓达人隐藏曲目，现在想想还让人不寒而栗。留彩蛋也能增加玩家之间的话题度，使玩家不局限于游戏本身，能跳出来。藏得深的彩蛋，可以激发部分玩家的探索精神，同时又营造了一份神秘感，激发玩家群体的讨论，引起路人围观。这几个月热门的手游明日方舟就有“明学家”单从官方的pv中就挖出了什么世界观，主人公身份猜测，剧情走向之类的。</p>
+<p>电影中的片尾彩蛋总结有三个用途，一为续作埋伏笔（参考漫威系列）；二对故事做一个最后的收尾或者说惊喜，画下一个完满的句号，比如前面说的火影剧场版；三开放式结局，如盗梦空间，让你自己想结局走向。片中穿插彩蛋，基本逃不开致敬，玩梗，情怀，联动这几方面，如头号玩家。</p>
+<p>代码中的彩蛋一般多是程序员根据个人兴趣爱好使然添加的私货，我本人在写博客页面的时候，因为感觉好玩，就刻意留了三个彩蛋。敖厂长一期关于excel的<a class="link"   href="https://www.bilibili.com/video/BV19s411978W/" >视频 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，里面的诡异元素（彩蛋）就是程序员发泄的窗口。当然前车之鉴，在开源应用层面来说，我们并不能随意给作品添加彩蛋元素，要考虑产品定位，受众群体等因素，否则本意是好却弄巧成拙。</p>
+]]></content>
+      <tags>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>滞留村中</title>
+    <url>/2020/03/04/%E6%BB%9E%E7%95%99%E6%9D%91%E4%B8%AD/</url>
+    <content><![CDATA[<p>原本计划是2月1回来，结果因为疫情，村子封路了，不能进，出去要经过村委会、乡政府和医院测温盖章的流程且短期不能再回来，结果2月份2&#x2F;3的时间都呆在了湖南。每天抱着手机，在电影、游戏、论坛间切换。另外给项目补接口修bug，只是效率堪忧，湖南天气不似广东那般温和，是凛冽的冷。早晚不烤火基本就是冻的手脚僵硬，打字都不灵活，遇上阴天的时候，到了中午和下午也得不到缓解。虽然有被炉，但是弟弟妹妹在，很难集中精神。</p>
+<p>疫情渐渐严峻，人与人的隔阂也深刻起来。相隔不过几百米的村与村之间开始设卡封路，各家各户分批轮流出人到关卡24小时看守。这关卡是怎么样的呢？随意点的拿几根粗长的竹子架在路中央，讲究点的就把车打横停在路中央，总之是要封死车辆通行。但有个问题，他封不住走路的人。尽管村子间彼此多互相熟悉，也没办法保证守关卡的人认识村里的全部面孔，特别是外出打工的，所以也还是会有漏网之鱼。村里人因此吵过好几次架，舅舅也告知弟弟妹妹们不要到那几户刚回来的人家去，村里串门的少了很多，大多都是窗门紧闭，阴沉天气下有些压抑。在几次村里人争吵，听到一个还蛮过分的事，村子有一户人家儿子把妻儿丢在疫情更严重的岳阳自己溜回来了。村子间的关系也有些微妙，互相开始有些抵触情绪，禁止邻村人入内的情况常有，险些引发肢体冲突。晚上烤火时也频繁听到村里人诟病某村某人。</p>
+<p>疫情也让人对咳嗽感冒变得敏感起来。姨父不知道从什么时候开始咳嗽，刚开始还没怎么在意，到后面咳嗽严重的时候，我心里也开始担心起来，特意查了查新型肺炎的症状：咳嗽，发热畏冷，乏力。这几个症状姨父都有，加深了我的担忧，我仔细想了想了姨父去过的地方，基本跟我一样没怎么出去过，只是在村子亲戚家里走动过，但村子里并无一例病发案例，病源又从何而起？这样想着我的担心才减轻了几分。好在后来弟弟（三弟）开车带着姨父到乡上诊所看，诊断为咽喉炎还是支气管炎记不清了，之后吃药打针情况有所好转。这期间，我们又去了一趟寺庙敬神为姨父问卦，这个问卦的流程就是：卦师（这次卦师是大外公）向佛像告明问卦者的信息，然后开始向佛像询问缘由，随即将<a class="link"   href="https://baike.baidu.com/item/%E6%8E%B7%E6%9D%AF%E7%AD%8A/3690017" >杯筊(jiǎo) <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>往地上掷下，根据阴卦阳卦数，即知结果。姨父的问卦结果已没有印象，只记得遵照卦师的意思由姨父将佛像背回去上香供了一阵子。</p>
+<p>逢年过节，村子里打牌的风气盛行。邻里之间熟络，招呼一声一场麻将就可以开桌了，从白天到黑夜，从深夜到早晨，洗搓之声不绝于耳，万幸不是在自己家里开的局。村里的年轻人这时候也喜欢聚起来打牌，哥哥也几次因为打牌惹得姨妈不高兴。舅舅，舅妈两人也爱打牌，这期间在家里常不见踪影，不是在牌场上就是在去牌场的路上，被姨妈他们数落之后倒是有所收敛。 弟弟妹妹或许是受了影响，也吵着要跟我们打牌，打脱裤子、斗地主、跑得快。我自己是不太打牌的，因为不想输也输不起，不打钱的牌还能玩玩。舅舅夫妻两人忙于牌局，两小孩没人管，他们总会拿舅妈的手机玩，喜欢看抖音上的土味视频（叫什么师姐还是学姐之类的   ），常常笑嘻嘻地模仿。后面姨妈跟舅舅说了情况，他俩手机的使用权被收回去了，又变成只要我们在玩手机就会凑过来看。</p>
+<p>弟弟喜欢玩吃鸡、王者荣耀、qq飞车腾讯系的，我不爱玩这些，他又吵着要看动画，好在番剧方面他和我相投。我说看奥特曼吧，他能说出赛罗、欧布和银河奥特曼；我说看假面骑士，他也能说出时王这部作品。看动画他又给我安利刺客五六七，我跟着他看了几集，的确好看。弟弟还有个有趣的地方就是喜欢听鬼故事，但是又怕得要死。跟他说鬼故事的时候，他会时不时地回头张望，脸上写满了紧张，你停下他又催着你继续讲。妹妹则不一样，每次问她为什么不怕，她就用稚嫩的声音说世上无神鬼（但实际上她很怕黑）。这兄妹两有可爱的地方，也有小孩子的无理取闹，不合他们的意就撒娇发脾气，妹妹被骂的重了就会哭。弟弟性子皮，脸皮也厚。这两兄妹间偶有矛盾，多是零食分配之类的。弟弟比较狡猾，这方面总能占尽便宜。妹妹呢，喜欢有样学样，她看见哥哥在玩什么她就抢着也要玩。有舅舅姨妈“xx你是哥哥要让着妹妹”的尚方宝剑，这是她的优势，弟弟大多数情况是不敢反对的。</p>
+]]></content>
+      <tags>
+        <tag>无稽之谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>用nginx做权限验证</title>
+    <url>/2019/08/08/%E7%94%A8nginx%E5%81%9A%E6%9D%83%E9%99%90%E9%AA%8C%E8%AF%81/</url>
+    <content><![CDATA[<h2 id="设计基本思路"><a href="#设计基本思路" class="headerlink" title="设计基本思路"></a>设计基本思路</h2><p>背景：</p>
+<p>公司各种监控系统的权限尚未做细致分配，可读就可写，不可读就不可写，简单粗暴。如果自己再开发设计一套系统，费时费力不说还增加了维护的工作量。这些监控系统本身至于内网中，外部想要访问就需要通过nginx代理。于是这个作为代理服务器的nginx就是解决问题的核心所在，系统的读写请求都要经过它到后端去，只要在这一环增加权限控制，便能一次性的解决多个监控系统权限控制的问题，不需要对应每一个系统单独写一个权限控制服务。有了nginx作权限控制，那么谁来提供角色分配与管理呢。答案是gitlab。</p>
+<p>公司是以gitlab作为管理仓库。而它本身刚好又提供了一套权限机制，在不需要过于复杂的RBAC（如淘宝）要求，gitlab本身的五种角色足够用（Guest，reporter，Developer，Master，Owner），而且因为角色权限是基于组，项目而言的（并不能脱离这两样去单独查某个用户的权限，gitlab管理员这种除外），故而实际上可以利用这一点进行细分，比如在组中设立多个项目，A项目人员只能访问A系统，B项目只能访问B系统等，而上述五种角色则是规定读写权限。在gitlab官方api中可以通过“&#x2F;projects&#x2F;:id”来获取当前授权用户的信息，其中就包括permission字段，内容是你在这个项目，组中的access_level（即权限，说来惭愧，两次我跟导师说没有这查询权限的接口存在，殊不知它就在灯火阑珊处……）。</p>
+<h2 id="搭建流程"><a href="#搭建流程" class="headerlink" title="搭建流程"></a>搭建流程</h2><p>我选用openresty，因为其很好的支持lua，在nginx写自己的权限校验逻辑时个人体感良好的。而gitlab则是用户权限管理系统也是授权服务器。环境搭建没有可说点，唯一需要吐槽的就是gitlab系统要求高，4G2核，我自身的电脑基本是跑一个gitlab就没法再跑其他应用了，搭建完之后创建授权服务，根据需要可以设置为单人或是全局应用。采用的是oauth2协议授权码模式。</p>
+<p>梳理一下思路，nginx作为资源服务器，gitlab作为认证服务器，客户端便是用户使用的浏览器。根据oauth2协议，我们访问资源，资源服务器判断未授权（access_token过期或尚未登录进行授权），跳转到gitlab输入账密登录是确认授权，此时gitlab会发放一个授权码（不是access_token），至此第一步完成。随后客户端访问携带授权码参数的redirect_url，这里是重点。因为我们是使用nginx作为权限控制，自然redirect_url是nginx中的一个location。访问该接口，nginx取得授权码便向认证服务器申请access_token，获取token之后查询gitlab用户access_level，比较所访问的资源权限要求判断是否符合要求，符合则将资源返回给客户端，同时设置响应header中的set-cookie，加入token，不符则响应403，至此一个流程走完。历史悠久的cookie认证机制，因为CSRF问题而被人诟病，那为什么还要用呢？因为我们浏览器是直接访问资源的过程中进行认证，发放的access_token，浏览器如何主动请求特定资源携带该token呢？如果是个vue啥的页面我还知道怎么做，但是这种情景下除了利用cookie机制让浏览器主动帮我们加上之外，暂时没想出好办法。既然使用cookie，那自然要在nginx上做一些cookie相关限制，如禁止跨域，过期时间，domain。对比着阮一峰的图，感觉整个流程上有些差异，梳理到这感觉nginx更像是一个客户端行为。</p>
+<p>整体来说搭建并不复杂，但是因为我对nginx配置不熟悉，比如最开始想要用nginScript逻辑实现时，发现写的十分难受，不是语法不支持就是nginx的配置不对，还不知道怎么调试，只能从错误日志有限的内容推断。故而改用lua，写起来就顺手多了。gitlab接口api，对着文档也折腾了好一会。</p>
+<h2 id="有谁在用？"><a href="#有谁在用？" class="headerlink" title="有谁在用？"></a>有谁在用？</h2><p>为什么要提这个呢？因为要说服自己用openResty，这里技术选型要谨慎些。<br>考虑企业使用情况，社区活跃程度。前者反应市场考验，后者反应产品活力，更新能有保证，也利于后续使用中的防坑与排错。</p>
+<p><a class="link"   href="https://segmentfault.com/a/1190000004113020" >https://segmentfault.com/a/1190000004113020 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   href="https://www.zhihu.com/question/40091533" >https://www.zhihu.com/question/40091533 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>还是有不少公司是在用openresty。openresty开源作者也早以在美国成立了Openresty公司</p>
+<h2 id="为什么不使用nginScript而是lua"><a href="#为什么不使用nginScript而是lua" class="headerlink" title="为什么不使用nginScript而是lua?"></a>为什么不使用nginScript而是lua?</h2><ol>
+<li>语法上跟js有区别，并不是纯粹的js，个人体验并不好。</li>
+<li>在用nginx作权限验证这块我查到的资料不如ngx_lua多，降低学习成本，节省时间。</li>
+<li>对lua有兴趣。早前玩手游的时候对于重复机械性的操作厌烦，找辅助脚本时了解到lua适合写该类脚本：<a class="link"   href="https://www.zhihu.com/question/20296452/answer/79609419" >https://www.zhihu.com/question/20296452/answer/79609419 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 。</li>
+<li>leader没要求（根本原因）。</li>
+</ol>
+<h2 id="使用openresty注意事项："><a href="#使用openresty注意事项：" class="headerlink" title="使用openresty注意事项："></a>使用openresty注意事项：</h2><ol>
+<li>避免使用全局变量。<blockquote>
+<p>原因是，在设计上，全局变量是跟请求相关联的，也就是说一个请求一个全局环境。如果一个变量声明为全局，那么它的生命周期会跟随一个请求的建立到一个请求的消亡，当一个请求结束时，该变量会被清除，而且在全局环境中搜寻开销比在局部里大。静止使用全局变量的原因如下：<br>        1.在高并发的情况下可能会有意想不到情况发生<br>        2.在全局环境里搜索变量开销很大，影响性能<br>        3.不易于调试</p>
+</blockquote>
+</li>
+<li>模块代码不能是阻塞的<br> <img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/./1565258011208.png"
+                      alt="知乎评论"
+                ></li>
+<li>header的设置问题，主要是domain，path，expire（max-age）<a class="link"   href="https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Headers/Set-Cookie" >参考链接 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>注意nginx本身的路径匹配规则。<a class="link"   href="https://deerchao.net/tutorials/regex/regex.htm" >正则表达式公式书 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ol>
+<h2 id="使用nginx缓存主要目的？"><a href="#使用nginx缓存主要目的？" class="headerlink" title="使用nginx缓存主要目的？"></a>使用nginx缓存主要目的？</h2><p>缓存通过access_token获取到的用户权限信息，避免多次鉴权都直接请求gitlab拿信息。<br><strong>openresty缓存的两种类型</strong></p>
+<ol>
+<li>lua_shared_dict<br> 缓存在worker之间共享，对其操作是全局锁，高并发情况下容易引起竞争 </li>
+<li>lruchache<br> 缓存属于单个worker进程，故而无竞争，但也因为不共享的原因可能造成数据冗余<br>目前采用的是第一种缓存，因为是以token作为key，用户权限信息作为value。一个用户占用100个字节，1000个人就是100KB，不到1m，单就这一方面来说2M是完全足够的。再加上是该nginx是面向内部人员使用，并发不足以影响性能问题。</li>
+</ol>
+<h2 id="常用预定义变量"><a href="#常用预定义变量" class="headerlink" title="常用预定义变量"></a>常用预定义变量</h2><ul>
+<li>GET请求参数： $args_NAME</li>
+<li>header参数：$http_NAME</li>
+<li>cookie值：$$cookie_NAME</li>
+<li>客户端ip：$remote_addr （对于获取真实ip还需做一些处理）</li>
+<li>服务器相关： $server_name     $server_port    $server_addr</li>
+<li>参数匹配 : $1   $2</li>
+</ul>
+<h2 id="补充资料："><a href="#补充资料：" class="headerlink" title="补充资料："></a>补充资料：</h2><ul>
+<li><a class="link"   href="https://juejin.im/post/5bf671a4e51d4546d60a9bd1" >nginx处理请求的11个阶段 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html" >oauth2 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网站&amp;文章推荐2020合集</title>
+    <url>/2020/12/31/%E7%BD%91%E7%AB%99&amp;%E6%96%87%E7%AB%A0%E6%8E%A8%E8%8D%902020%E5%90%88%E9%9B%86/</url>
+    <content><![CDATA[<p><a class="link"   href="https://www.shuxuele.com/index.html" >数学乐 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>入职被安排了解短信网关选择算法，因为有正态分布等相关数学思想，所以在网上找资料回顾，便发现了一个很不错的知识网站，内容详实，条理清晰。其实数学上一些知识还是非常有意思的，有时间可以借此网站补下课。</p>
+<p><a class="link"   href="https://oschina.gitee.io/learn-git-branching/" >Learn Git Branching <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>程序员刚入职场前不知道准备什么时，学习git的使用肯定没错。不用多精通，记住主要的命令就够日常使用了。下面的网站是一个git教程网站，提供实操以及生动形象的动画配合理解。</p>
+<p><a class="link"   href="https://www.jiumodiary.com/" >鸠摩搜索 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>如果还在用百度、谷歌来搜索某本书的电子版资源时是否会被广告或是钓鱼网站所困扰，不妨试试这个专门针对文档的搜索引擎——鸠摩搜索。目前我试着搜了四本彼此无关联性的书，都能成功找到不错的下载源，重要的是目前该网站非常清爽简洁，没有什么广告。如果觉得书写得不错经济允许不妨支持下正版。</p>
+<p><a class="link"   href="https://www.gcores.com/articles/94695" >从《战神4》的LOGO说起，带你解读神秘的北欧卢恩符文 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>最近看了篇报道讲得是一名学生用卢恩符文写作文，结果老师还是花了三个小时将其翻译了过来。这让我萌生了将汉字转为卢恩符文得想法，思路也很简单：将汉字转化为拼音（或者英文）再将其转化为对应的卢恩符文，就像这位老师将卢恩符文转为罗马音再转为日语一样。要想实现这一想法，就必须得对卢恩符文有所了解，而这篇文章恰好可以带我们入门卢恩符文。<br>d</p>
+<p><a class="link"   href="https://www.bbc.com/zhongwen/simp/science-53109403?at_campaign=64&at_custom1=%5Bpost+type%5D&at_medium=custom7&at_custom2=facebook_page&at_custom3=BBC+News+Chinese+(Simplified)&at_custom4=6146BD76-B271-11EA-B5E4-FFEB39982C1E&fbclid=IwAR1PeenlQCnv4ks4AP22tg99W9CcDskqNZRWtgkj-XPP8pXVZ0hCB-Imuk4" >蜜蜂王国解密：你以为是蜂王闺密私语 真相很残酷 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>前几天看了一个段子说老鼠偷了人类的大米人类说它狡猾，而人类偷了蜜蜂的蜂蜜，却只说蜜蜂勤劳。说到蜜蜂，人类对它有多少认识？</p>
+<p><a class="link"   href="https://github.com/pro648/tips/wiki/%E4%BA%94%E7%A7%8D%E5%B8%B8%E8%A7%81%E6%B5%81%E5%AA%92%E4%BD%93%E5%8D%8F%E8%AE%AE" >五种常见流媒体协议 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>在尝试弄弄直播的时候流媒体协议必然是绕不开的，本篇文章是对流媒体协议的简单介绍，同时作者的tip下也对ios开发做了总结，如果对ios开发有兴趣可以看一看。</p>
+<p><a class="link"   href="https://www.gcores.com/articles/124387" >借《Mafia》聊聊真实的西西里黑手党 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>虽然Mafia我没玩过，但《教父》三部曲我是看过的，小说也看了第一部，有时间再补补。如果想了解西西里的黑手党，不妨可以看看本篇文章。</p>
+<p><a class="link"   href="https://www.bilibili.com/video/BV14K4y1b7vp" >用他人的音乐做BGM是否侵权？ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>制作视频的时候大部分人都会为其增加一段音乐烘托气氛，那我们如何判断这一小段音乐的植入构不构成侵权呢？本视频以及第一热评可以为你科普音乐版权方面的知识，让你能在视频音乐方面避一些坑。</p>
+<p><a class="link"   href="https://web.archive.org/" >INTERNET ARCHIVE <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>b站之前出过一个纪念十周年的活动（大概）用户可以访问到十年前的b站看看它曾经的样子，你是否想看看自己经常浏览的网站xx年前是怎样的呢？那么这个网站非常适合你，只需要输入域名选择时间点即可看到该域名对应时间点的样貌（我在浏览bilibili.com这个域名某个时间点的时候发现曾经还是个“哲学”网站）。另外访问该网站需要梯子。</p>
+<p><a class="link"   href="https://www.gcores.com/articles/122716" >聊一聊Puzzle：华容道与其他滑块游戏 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>华容道可以代指一种滑块游戏我是从某一季的最强大脑节目知道的，有段时间会时不时掏出手机玩一盘。刚开始不懂技巧，只会顺着直觉挪动方块，花的时间足够长总会拼成功。后面才上网学了点小技巧，复原的速度有明显提升。本篇文章描述了华容道游戏的一些历史以及各种变体游戏。</p>
+<p><a class="link"   href="https://www.mapstd.com/" >mapstd <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>谷歌地图在线塔防。<del>上课&#x2F;工作摸鱼利器</del>。</p>
+<p><a class="link"   href="https://haveibeenpwned.com/" >‘;–have i been pwned? <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>想知道自己的账户密码是否安全？可以试试这个网站，是国外一位安全专家建立的，简单说就是搜集了因各种原因而被泄漏到网上的数据库跟你的邮箱账号进行匹配（据说作者拿到了约炮网站数据库于是有段时间被人用来作为捉奸工具）。</p>
+<p><a class="link"   href="https://zhuanlan.zhihu.com/p/84572711" >你跳宅舞的样子很专业：不，这都是AI合成的结果 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>前段时间某换脸App软件引起了轩然大波，人人自危。现在又有AI能让一张照片里静态的人不用训练就能变成舞蹈视频中的舞见。（2023年留，ChatGPT又将AI推向了一个新高度，AI在图像、文字上的处理能力也让我大为震撼。如果要总结这一年的热词，AI必占一席，而2023年也被不少人誉为生成式AI之年。）</p>
+<p><a class="link"   href="https://www.gcores.com/articles/121249" >童谣是怎么一步步发展到今天这样的 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>说起童谣，你还记得多少？“蚂蚁搬家蛇过道，明日必有大雨到”，“小孩小孩你别馋，过了腊八就是年”。该篇文章是一位00后作者对童谣发展的一个探究。</p>
+<p><a class="link"   href="https://www.bilibili.com/read/cv4680782?from=category_0" >世界上第一个“超级传播者”，是怎么被发现的 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>如果一个自身健康的病菌传播者出现在你身边且当前医疗手段无法治愈应该如何处理？这篇文章让我想起了一本小说《岛》。</p>
+<p><a class="link"   href="https://www.gcores.com/articles/119489" >通过《驯龙高手》聊聊有关物种灭绝的一些事 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>对物种灭绝的简略科普。</p>
+<p><a class="link"   href="https://www.bilibili.com/video/av82067647?from=search&seid=1708577164723361293" >你知道奶茶加盟到底有多坑人吗？ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>我的一位同学就想过做某品牌的奶茶店，可惜后面因为加盟费太高放弃了。没想到加盟店也有这么多花花肠子（或者说每个行业都有它自己的套路吧）。万金油防骗指南：摆明了有钱赚的东西别人为什么要让给你做？</p>
+<p><a class="link"   href="https://www.bbc.com/ukchina/simp/vert_earth/2015/10/151001_vert_earth_truth-about-pigs" >打破人们对于猪的错误认知 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>猪肉涨价了，吃不起我就看看。</p>
+<p><a class="link"   href="https://www.degraeve.com/img2txt.php" >IMG2TXT: ASCII Art Made Easy! <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>说起图片转文字就让我想起了bad apple转成文本播放的案例，原理就是把原视频每一帧都转成ASCII码，再按顺序输出。这就是一个图像转换成ASCII的网站，同时也提供了其他的工具，像图片颜色提取，网页翻译器和生成彩虹字样式等。</p>
+<p><a class="link"   href="https://www.bilibili.com/read/cv4079473" >小神龙俱乐部的《艺术创想》火了18年，为什么消失了？ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>艺术创想可以说是我小学最喜欢的栏目(还有同样非常喜欢的《课间好时光》)，因为那个总是穿着红色衣服的尼尔叔叔，我也开始有意识的收集家里不要的废纸盒。跟着做了不少“假冒伪劣产品”。那盆神奇的白色乳胶是我童年最想要的东西之一。</p>
+<p><a class="link"   href="https://www.gcores.com/articles/118523" >《要素过多的英雄作成指北》—古希腊篇 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>谁不曾中二过？谁不曾想象构思过自己内心的英雄形象？这篇文章就是以希腊神话为基础，将神话故事人物，考古研究等和凭空创造的英雄串成一条线，从出生到落幕的每一步构思都很考究（个人感观），使得读起来毫不突兀。</p>
+<p><a class="link"   href="https://musclewiki.org/" >musclewiki <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>一个关于健身的网站，哪里要练点哪里，图文并茂。</p>
+<p><a class="link"   href="https://stellarium.org/" >Stellarium <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>在阮一峰的科技周报里看到推荐的关于天空的网站，钟爱它夜晚下的星空，渲染的很漂亮，开发者估计是个细节怪，还贴心的注明了星球名称、距离、大小，赤经纬等。</p>
+<p><a class="link"   href="http://www.duxieren.com/" >读写人 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>网速的飞跃提升价格适合的智能机，我们逐渐从以前按键机的文字阅读里不知不觉跌入视听娱乐的漩涡中，似乎文字不再那么有魅力，只在你我的毕业论文工作周报中发挥着余热。不妨让我们在视听之余留点空间，重拾曾经阅读文字的乐趣。</p>
+<p><a class="link"   href="https://yq.aliyun.com/articles/577708?spm=a2c41.11181499.0.0" >CDN之我见 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>对CDN一直仅停留在概念上：加入CNAME域名解析。优化访问速度。通过这篇文章加深了对CDN的理解。</p>
+<p><a class="link"   href="http://blog.xiayf.cn/2016/01/24/base64-encoding/" >Base64编码原理与应用 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>偶然想到Base64是否会对不同的字符串生成相同的结果，了解了Base64的基本原理，算是解惑了。</p>
+<p><a class="link"   href="https://deerchao.net/tutorials/regex/regex.htm" >正则表达式30分钟入门教程 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>高质量的正则表达式博文，我把它当做工具书使用。</p>
+<p><a class="link"   href="https://zeroroku.com/bilibili" >Zeroroku-数据观测站 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>biliob同作者的数据新站点，能看up粉丝数情况，目前可视化信息比biliob少。</p>
+<h2 id="已失效"><a href="#已失效" class="headerlink" title="已失效"></a>已失效</h2><p><del><a class="link"   href="https://brenner8023.github.io/gdut-nav/" >工大导航_团结勤奋是创新 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></del><br>同校不知名学长(大概)做的一个收录网站，除了本校学生经常要用到的网站之外，还收录了许多非常实用有趣的网站，话说很久没见过这么干净的收录网站了，而且有的被收录网站内容也十分干净。</p>
+<p><del><a class="link"   href="http://tool.uixsj.cn/" >现实君工具箱 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></del><br>偶然发现的收录型网站，内容及其丰富，总有一款适合你。（就搬运这个网站上的工具就能水很多期了，哈哈）</p>
+<p><del><a class="link"   href="https://www.biliob.com/" >BiliOB观测者 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></del><br><del>如果你是b站的深度用户&#x2F;up，你或许会留意up主的涨粉，视频播放数，点赞数等数据（想起一句话，互联网产品如何如何数据说话），那么这是一个非常适合你观察自己或其他up主数据的一个实时数据汇总网站。我个人看了下粉丝榜首“老番茄”一年下来粉丝数翻将近两倍（涨了将近400万粉），十分夸张。另外该网站的技术栈看了下，感觉应该能照着写一个这样的网站（2023年留，这个网站好久之前就已经停了，因为被b站官方发邮件了。站长的代码我那时候fork了一份，印象里后端技术栈不复杂，很适合作相关框架的入门学习材料）。</del></p>
+<p><del><a class="link"   href="https://www.bilibili.com/read/cv4370122?share_medium=android&share_source=weixin&bbid=XY3D550316AF47051D25D1ABF705227CF0223&ts=1581312891849" >动物“装死”到底有多好用？它们分分钟死给你看 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></del><br>我们总说遇到熊就装死来躲避，实际上许多动物也会通过装死来逃避捕食者的猎杀，它们的装死技巧要比人类高明许多。</p>
+<p><del><a class="link"   href="http://www.bewindoweb.com/dwg.php" >三颗豆子 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></del><br>收录型网站，作用不多说，至少目前我写论文用到了，以及在线工具栏的收录工具也用到了不少，最关键的是该网站友链同样收录了几个满满干货的dalao，强推（竟然失效了，遗憾…）。</p>
+<p><del><a class="link"   href="https://www.bilibili.com/read/cv4474525" >西方“鼠王”的恐怖传说，几十只老鼠尾巴交缠成的痛苦之轮 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></del><br>一直以为所谓鼠王就是指老鼠里的老大（大概就像以为小熊猫是熊猫吧），没想到现实中鼠王是这么猎奇的一个存在。</p>
+]]></content>
+      <tags>
+        <tag>“网文”收录</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>走过十年的赛尔号</title>
+    <url>/2019/07/27/%E8%B5%B0%E8%BF%87%E5%8D%81%E5%B9%B4%E7%9A%84%E8%B5%9B%E5%B0%94%E5%8F%B7/</url>
+    <content><![CDATA[<p>此前回坑玩赛尔号的时候就想写一篇关于赛尔号的博文感慨感慨，写完觉得不好太过直观于是作罢。昨晚去看了广州场赛尔号的点映之后，觉得可以再重新写写，纪念过去陪伴过我两年多给我带来很多乐趣的赛尔号</p>
+<h3 id="登船之时"><a href="#登船之时" class="headerlink" title="登船之时"></a>登船之时</h3><p>在09年的年末，淘米上线了精灵收集对战类游戏赛尔号。那时应该是五六年级左右吧。那个时候cf，dnf，QQ飞车这些腾讯系的游戏大行其道，身边不少人为这些游戏都趁着中午的空档往黑网吧里钻，而我却对小游戏情有独钟：死神VS火影，拳皇和炎龙传说等这些是我常玩的游戏，不知何时，交好的朋友给我安利了赛尔号，于是，我也踏上了这趟旅程。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://pic.imgdb.cn/item/658242c5c458853aef5d9e11.png"
+                      alt="船员信息"
+                >   </p>
+<p>那时候还不并不是这个id，因为游戏王在电视里热播，于是在玩游戏时我都会起一个什么什么王之类的中二名，于是取名——赛尔王。以王之名登上了这艘至今还在航行的船，从此一发不可收拾，乃至之后深受其影响，迷上了回合制的对战游戏，在没有赛尔号玩的时候，我总会拿着父亲的诺基亚n72找类似的游戏玩，比如口袋灵兽，口袋王国，宠物王国345，机甲风暴，让我记住了陆行鲨这个专门做这类游戏的厂商，记住了java的热咖啡logo（那时候怎么也不会想到现在自己会做java开发吧）<br>……到初中玩了一个暑假的口袋妖怪（第三世代到第五世代。革命性的第七世代狠狠撩拨了当时上高中而贫穷的我的心），知道了了任天堂为何物。</p>
+<h3 id="游历星系间的成长"><a href="#游历星系间的成长" class="headerlink" title="游历星系间的成长"></a>游历星系间的成长</h3><p>“欲戴王冠，必承其重”，顶着王的名号在星系的地图上做日常的时候总难免被人约战，点了同意之后被妥妥的完虐之余还要接受别人对话框嘲讽一句垃圾，高年级的同学看到我的id之后也是冷笑蔑视。挨打多了觉得名字起的太狂了于是便打算改id，那时候校园广播很流行许嵩、汪苏泷，by2还有一些韩流的歌。我对许嵩的断桥残雪情有独钟，于是决定以这首歌为名，但这样不够，还要加个前缀，赛尔号上当时特别流行的就是Forever.xxx，而一般起这样名字都很牛逼（误），于是我的id也变成了——Forvever.断桥残雪。此后，顶着这个id从一个菜鸡走到了当时的巅峰，也是我截止到目前唯一一个网络游戏里玩到巅峰的。</p>
+<p>那个时候最大的乐趣就是收集稀有精灵，但是淘米使坏，总是搞些特别的时间才会出现特别的精灵，晚上八点出现的“眼球”、中午2点最热的时候出现的闪光格林……在家里还没装好电脑的时候，我就只能把账号交给朋友，让他帮忙看着时间抓下精灵，但朋友也是偷摸着家里的电脑玩游戏的，再加上有自己的游戏要玩，所以并不能总指望上朋友。除去这些能捕捉的精灵，剩下的就是能力象征的boss宠，唯一获取途径只能通过挑战boss获得。在网上攻略匮乏的时候，就会和朋友们课间交流、钻研怎么攻略高难度的boss，也是当时游戏的乐趣之一。</p>
+<p>到了初中，环境虽然变了，但对赛尔号的喜爱依旧未变，我记得初一自我介绍时说喜欢玩赛尔号，希望有志同道合的人一起玩（大概这个意思）。结果，游戏上的道友未寻得，反而自己还被舍友们不时调侃“赛尔号这垃圾游戏有什么好玩的？”。他们不知道那时每周回家我最大的盼头就是这个了。因为周更的缘故，赛尔号上每周都有新的东西，极大丰富了我的游戏体验，同时又对下周的更新既兴奋又期待，时至今日我已经很难有当时那么纯粹的快乐，无畏于别人怎么看这款游戏，在他们开始在形形色色的网游中组团、小学的朋友们也转战其他战场时，我依旧坚守着在船上里，孤独却充实的旅行着。</p>
+<p>网络游戏终归是要盈利的，没有例外。赛尔号的氪金要素在当时并不多，只有VIP和年宠，六年级的时候一直心心念念着要50块的半年费远古鱼龙（充值半年VIP即可获得的宠物），怎么办？想了很久，把当时堂哥给我买的游戏机折半卖给了同学，就这样获得了50元巨款，兴冲冲的跑去买点卡，这是我人生的第一次氪金。后面上初中了，当时的赛尔号氪金活动少而且价格不高，每周就从生活费里省点，存个几周也能支撑。在氪金和漫长的时间堆积下，我也渐渐从垃圾慢慢走上了游戏的巅峰，组队Boss战和q群的朋友默契的配合成功通关，经历七轮又七轮的当时最高难度单人Boss谱尼，以及突破玄武的层层守护，为了%3的秒杀概率磨了一个下午（大约三小时）…终于，跟上了当时最新的游戏进度，pvp也借着强力宠物配合套路基本屡战屡胜。</p>
+<h3 id="弃而未舍"><a href="#弃而未舍" class="headerlink" title="弃而未舍"></a>弃而未舍</h3><p>在爬到巅峰之后，兴趣被消耗殆尽，成就感渐渐少了，或许这就是高处不胜寒吧（笑~）。自然而然的，到了我对它的热情之火燃烧殆尽的时候。依旧记得退坑那个时刻，白虎已经出了有一段时间，我还在攻略青龙。第一次对这个游戏失去兴趣的场景还历历在目：借住在朋友家里打开赛尔号充了最后20元给远古鱼龙进化成鱼龙王拉出来溜圈。很自然的，看着屏幕就想这个游戏还有什么意思吗？陷入了空虚，感受不到多少喜悦。于是关掉页面，从那以后一直到大学前从未再登上船，一点一点的被我遗忘。也许偶尔会看到有关的新闻，也许会听到路人的讨论，也许收到早已沉寂的战队群冒出的消息。</p>
+<p>大学前半部分的时间于我而言是悠闲的，去了高中一直心心念念的萤火虫漫展，跟朋友也一起玩了不少游戏，从地下城到艾尔之光，从冒险岛到冒险岛2，又从网游转移到单机战场。我这个人十分无聊的时候就喜欢怀旧，在游戏荒之后就打开了4399，角落里赛尔号的图标抓住了我的视野，曾经持续霸占4399游戏周榜的赛尔号，静静地缩在那个角落里。于是我点开了它，时隔多年重新登上了这艘船。只是一上来，这艘船就给了我一个“大惊喜”，船舱里种类繁多的氪金要素冲击眼球，堪比某些网站的牛皮藓广告，甚至老兵回归的邮件都不放过。果断下线。 我那时的想法跟很多人一样：赛尔号已经完全变成氪金号了。直到春招四月份的时候，看了youtube上台湾网友的游戏视频，被现在游戏里的一只精灵——时空界皇吸引了。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://pic.imgdb.cn/item/658242c4c458853aef5d9beb.jpg"
+                      alt="时空界皇"
+                ></p>
+<p>因为立绘的缘故，再加上去掉了之前满屏的氪金广告，让我在这艘船上又待了两个月。不可否认，在春招的压力下是，它成了我解压的好地方。PVE与PVP模式不同于以往的简单粗暴，机制变得更加复杂了，以至于常长老们（赛尔号玩家的自称）常拿这张图来调侃:</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://pic.imgdb.cn/item/658242c5c458853aef5d9ca3.jpg"
+                      alt="调侃"
+                ></p>
+<p>曾经玩赛尔号的那批玩家已经长大了，游戏的发展方向也跟着发生了变化，变得成熟，复杂，不再是当初子供向的游戏，这是我四月份上船之后我继续玩了一段时间的原因。这期间，不以氪金手段而是靠着攻略或是运气攻略boss，PVP里博弈论的极致演绎，都给我带来了乐趣与成就感。</p>
+<h3 id="不大漂亮的告别"><a href="#不大漂亮的告别" class="headerlink" title="不大漂亮的告别"></a>不大漂亮的告别</h3><p>但到了六月份，热情退却终弃坑，也给自己找了几点理由。一是强制氪金的概率性关卡，赛尔号中许多获得精灵的途径并不是你能打过它就ok，它还存在一个拼概率的机制，这个机制直接决定最后你能否获得该精灵。而有的精灵关卡概率设置的极低，没有硬保底，基本就是逼着你氪金。再则是是flash游戏的画质性能问题，这导致了赛尔号的画质过了十年依然没有什么变化，上线一段时间后就会变得很卡，你不得不刷新，极大影响了我的游戏体验。第三是脚本泛滥，pve还好关卡阴间，手打能打到你哭。但pvp体验就很糟糕了，缺少了竞技性，遇到脾气不好的对手可能直接开变速卡你（2023年留，赛尔号脚本现在已经成了标配，你玩赛尔号不用脚本反而是群体中的稀有物种。不过大部分玩家在巅峰竞技上达成了共识不挂脚本，一些脚本作者也声明其脚本不能挂竞技）。最后则是周年频繁的氪金活动，主要的氪金点在一些属性加成道具上（就如网游的装备），容易导致pvp就差那么点数值而吃瘪；另外就是精灵、道具返厂加价卖，有的还是之前免费送的。于是六月退坑。</p>
+<p>转眼七月上班了，中午休息时刷到赛尔号电影的点映消息，对于系列的电影自己一部没有看过，但听说页游的主策划会过来搞活动，地点又刚好是在公司附近便买了张票算作正式的告别。结果不尽人意，只能说是淘米本米了，不能抱有多少期望。原本活动安排是在电影放映完毕之后结果被提前到了放映前还被压缩到只有20分钟，而这20分钟还很尴尬，因为都是家长带着小朋友，很是吵闹，主持说话又小声几次被打断，也没见到页游主策（也可能是我没认出来）。以为能遇到些页游玩家，却成了小朋友的天堂。运营也只拍几张现场照就匆匆走了。好吧活动不行，那就电影来凑吧，结果电影果不其然地让我失望了，几度想要睡过去，可以说是败兴而归了。</p>
+<p>赛尔号的历程已经走过十年，那个当初资源只够支持3650天的赛尔号依旧还在航行着，它的社区里依旧坚守着一批忠实而活跃的玩家，或许他们有的是退坑又回坑，或许又是从始至终未曾离开。不可否认，赛尔号能持续航行至今的原因正是因为他们。资源或许是有限的，但玩家的热情却可以无限。虽然现在说是因为上面的原因退坑，但还是希望能在而立之年和下一个十年的它不期而遇。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://pic.imgdb.cn/item/658242c5c458853aef5d9de0.jpg"
+                      alt="十周年线下"
+                ></p>
+]]></content>
+      <tags>
+        <tag>游戏人生</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>走马观花2023</title>
+    <url>/2023/12/31/%E8%B5%B0%E9%A9%AC%E8%A7%82%E8%8A%B12023/</url>
+    <content><![CDATA[<p>又到一年尾声，本想拖几天再写，又强迫症地打开文档，那快速总结吧。</p>
+<p>今年乏善可陈，主要是进了体制内，步入朝九晚五的生活。认识了新的人，见识了新的事物，经历了单位搬迁的过程。</p>
+<h2 id="入职前"><a href="#入职前" class="headerlink" title="入职前"></a>入职前</h2><p>入职前，某天早上早早起床去作了个预检。第一个体检，效率自不用说，过程也顺利，只是对结果没把握。一是前几个月作息不规律基本一两点睡觉，二是看了以前入职体检记录丙氨酸都超了体制内的要求，debuff叠满，看结果那天的心情大概跟看高考成绩的心情是一样的。不过也许是平常有跑跑步，老天保佑，所有指标正常。之后为了正式体检，作息规律了，饮食清淡了，大量灌水后小便不黄了。</p>
+<p>没有消息就是最好的消息，体检两周无动静后收到通知让准备资料。但交资料期间水逆飞起，找地方开证明各种出问题、前后被三家打印店坑了（一家字体问题，两家收费问题）、交资料路上车又出事故了，等资料寄出去没有动静之后那种诸事不顺的感觉才渐渐消散。以至于我都产生了后遗症，跑去拜观音上了香，给腾讯公益捐了两百。</p>
+<h2 id="新人"><a href="#新人" class="headerlink" title="新人"></a>新人</h2><p>单位跟我同期的有三位，都是男生，相处还好,各有特点。</p>
+<p>一位是本地人，能说些本地风土人情，安利些美食娱乐等。一位是潮汕人，性格稳重，可能是上一份深圳合同工的缘故，比较熟悉体制内的工作方式和流程。第三位是博罗人，98年的，思想鲜明的新潮，做过一段时间自媒体，粉丝量好像上万？很契合单位的工作。四个人最后算是各自去了不同组，单位没搬迁之前倒是容易在楼下碰见，搬迁之后上下楼碰到的频率就少了。我跟他们的交流大概是偶尔一起吃饭和看电影。</p>
+<p>还有一位，其他单位的，体检或者说面试的时候认识的。不过交流不多，平时也只偶尔饭堂碰到，约过打乒乓球，不过当时国庆我回去了，后面没啥动静了。</p>
+<h2 id="新事物"><a href="#新事物" class="headerlink" title="新事物"></a>新事物</h2><p>工作上目前主要还是写材料，兼职管网络、机房巡检、修电脑。也由于写材料，才意识到自己写东西的啰嗦。管网络安全这块比较棘手，一是单位缺这方面的资料，二是之前管这块的也不专业，教不了我什么，两眼一抹黑。机房巡检没什么可说，真有问题也得联系前辈或者维保方。修电脑是被动的，本来不属于部门的职责，但成了历史遗留问题，不好推辞。</p>
+<p>跟过一个项目，初次体会到行政事务的繁琐复杂，跟乙方拉扯了一个多月，跑了一次县政府没解决，后面分管领导不知怎么解决了，忘记请教了。上山、上发射塔给前辈打下手，体力活，相对不费脑。参加过两次培训会议，最让人印象深刻的是一位军队转业的三级调研员，经历丰富，讲话很有激情，内容很有趣也很大胆，以致于我从心底里尊敬他。另一场培训会议，纯粹为了脱产学分去的，讲师照本宣科，让人昏昏欲睡。</p>
+<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>进入单位的时间点，刚好是单位拖了几年的搬迁计划要落地的时候。搬迁那一周周末加班，感觉蛮累的。我比较喜欢旧台，上下班不用等红绿灯，顺路能去吃饭堂，它表面看起来很有年代感，时间也给它刻上了条条裂痕，内里却让我觉得有生活味。新台高楼大厦，视野不错，但感觉就变成回到了公司。</p>
+<p>今年没怎么看书，印象里读了本科幻和几本长篇累牍的网文。电影首推《运转手之恋》，蛮有趣的，男主的性子和言论，放到现在看颇有意思。</p>
+<p>电视据倒是看了不少，首推《狂飙》吧，知性的高启兰太戳心了，这部在我看来有点爽文的意思。另一部《繁城之下》豆瓣高分，但我觉得很垃圾，算是我心中悬疑剧的垫底。同样豆瓣高分《圈套》轻悬疑，跟我这种强调剧情逻辑的电波对不上，纯粹为了听歌和磕男女主cp坚持的。《金田一少年事件簿1995、1996》，这部太多漂亮的演员了（同样地，也有太多悲剧……），<a class="link"   href="https://www.bilibili.com/video/BV1vd4y1g7Fc?p=2&vd_source=08c5a3a9befc446b40a98dd23b0c5340" >中山亚微梨 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>饰演的速水玲香让我失魂了好一阵子，可惜戏份不多，之后会补她参演的《银狼怪奇档案》。看了蛮多经典港剧，《九五至尊》、《法政先锋一、二》、《金宵大厦一》、《栋笃神探》、《鉴证实录》、《古灵精探一、二》,重温了《寻秦记》（也看了点原作内容，我不太能接受）。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://pic.imgdb.cn/item/659175cbc458853aefb7af3e.png"
+                      alt="中山亚微梨"
+                > </p>
+<center>速水玲香(中山亚微梨)</center>
+
+<br/>
+
+<p>动漫没看多少吧，写到这里脑子里冒不出什么名字，只有《间谍过家家》、《仙王的日常生活》，日常向的作品，适合下饭。哦，还有部不知道算在哪一类，考试前一天看的<a class="link"   href="https://www.bilibili.com/video/BV1dN4y1s7xt" >《当丧尸来敲宿舍门》 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，重新上架了合集，智斗武斗蛮精彩，收尾差些意思。</p>
+<h2 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h2><p>12月，打开了关闭已久的朋友圈，大学同学工作后生活丰富了不少。意料之外的不外乎有人研究生毕业了、有人分手了、有人结婚了、有人小孩都生了……颇感意外的是一位师妹考去了上海戏剧学院，从计算机系到导演系，跨度挺大的。师妹热爱表演，大一就进了校话剧团，现在真正地追求自己的理想去了，期待有一天能在大舞台上看到她的身影。</p>
+<p>回望自己这一年，没什么浪花，普通平凡的样本：饭依旧不会做、字依旧难看、性格依旧有些软、小小肚腩依旧在、综合能力依旧没多少提高。这么想着，情绪又“丧”了几分。</p>
+<p>窗外响起了烟花声，但夜空中不见绚丽的色彩，看看时间快十点了，搞个总结还是磨了一个多小时，不舒服……总还是要展望未来的，希望能好好学习日语，强化英语，补补网络安全方面的知识；多阅读，多思考和多写博客；适当的买些厨具学做饭吧，外卖真不太能吃得下了；字也请练练吧，总归是实用的技能；放长假还是要多摸摸车，不能一直让出行交通卡着自己。</p>
+]]></content>
+      <tags>
+        <tag>总结</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>近期所感</title>
+    <url>/2023/12/18/%E8%BF%91%E6%9C%9F%E6%89%80%E6%84%9F/</url>
+    <content><![CDATA[<h2 id="利己"><a href="#利己" class="headerlink" title="利己"></a>利己</h2><p>早上看到一篇共青团讨论献血积分入学的文章，读完觉得说得蛮有道理：“献血积分让人少了公益行为的自主性，很可能是让人不得已而为之”；“背离普惠性教育，有违教育公平”。但当看完评论里另一种声音，再一次意识到我本质也是从利己的角度去看待：自己赞同极大可能是因为自己没有献过血，自己没有受益，他人又因这一方式又增加了优势，人的黑暗面就开始发挥作用了。假设自己有每年都去献血，看到献血积分政策，我想也会有些欣慰和自豪，哪怕自己用不到，这对常年献血的人是一种嘉奖更是一种社会层面的认可。想想以前看到的很多争论&#x2F;吵架贴，也是这么个理。</p>
+<h2 id="望文生义"><a href="#望文生义" class="headerlink" title="望文生义"></a>望文生义</h2><p>由利己这一思考，我脑海中又冒出了”人不为己，天诛地灭“，上网搜了搜，才发现这句话的意思好像被我误解了，说“好像”是因为百度百科有包含自私自利这一释义，但看有的文章又认为这种解释是错的。另一种解释是把“为（wéi）”字解释为“修行、修炼”，人不修身，则为天地不容。结合此成语出处是论语，我也觉得这种解释更适用。再如“此情可待成追忆，只是当时已惘然。”这句诗，已经不记得上课老师给我们的解释了，按我对“只是”、“枉然”两词的刻板认知，我将这句话理解成当时诗人对自己那份情感浑然不觉。后来偶然在欧丽娟老师的<a href="">视频</a>里我才知道完全理解反了，不是当时不知，而是当时就已经怅然若失了，不需要等到今朝回忆才感无穷怅恨，为这首诗又增添了几分悲伤，我<a href="https://fxyjava.github.io/2019/12/31/%E5%86%8D%E4%B9%9F%E4%B8%8D%E8%A7%81%EF%BC%8C2019/">2019年总结</a>应该是误用了这一句诗。</p>
+<p>人对事物的认知，有些像缓存的工作模式，初次接触到的有必要的东西在脑子里深刻记下，形成固有印象，下次遇到时大脑能迅速响应，这常常是一种高效的思维模式。但同样，对事物的认知没有及时更新的话，可能会有意料之外地出错。写到这，又想起了一个单词“press”，是单位同事看电视里记者身上穿的衣服问我的，我随口回答按压的意思，但发现这释义对不上电视里的场景，去查了才想起来“press”还跟新闻、出版方面有关。</p>
+<h2 id="需求"><a href="#需求" class="headerlink" title="需求"></a>需求</h2><p>玩maplstory的时候发现笔记本开始带不动了。在nga查了下，说是主要是玩的职业攻击段数高，又涉及到对全地图敌人的路径追踪计算，很吃cpu。而我这台笔电是16年买的，虽然前段时间才换了固态和加了内存条，但cpu（i5-7300HQ）没换，大概率是这里的问题了，该换电脑了！我总结了过去几年的笔电使用情况，主要日常娱乐和代码开发，从买来就没玩过大型单机和剪视频什么的，便选了台今年出的不带独显的笔记本。maplestory、mumu不吃显卡配置，碧蓝幻想是页游，游戏娱乐上来说没问题。14寸的大小、2.5kg（感觉还是重了），方便携带，也算为工作出差什么的做准备。我9月换手机也是这么个思路，刚开始想着配置拉满，但回顾过去几年的手机使用情况，一样用不上高配置。</p>
+<p>在网购上这几年我有着葛朗台对钱的吝啬一般，对性价比一词极其敏感。我的整机计划就是这样被按下，非得拖到下年618活动不可。归根结底，是没有需求。</p>
+<h2 id="小说"><a href="#小说" class="headerlink" title="小说"></a>小说</h2><p>看完了一部现代官场文，算是对国内官场职阶有了个大致轮廓，不再像以前那样两眼一黑，人情世故略略增长了点。昨晚在书屋想换换口味，挑了本修仙文——《幽冥仙途》。为避免被剧透，没去看评论。读了十来章觉得是套路的王道爽文，主角虽极有心机且阿谀谄媚，但天资极佳，刻苦勤奋，得前人遗馈，又激流勇进。结果刚一出山历练，一行人被团灭。主角没勇气自尽，吓得尿裤子，跪地连连求饶，最后受威胁之下无视师父求死之心羞辱了他，使师父含恨而终。这一转折猝不及防，像是一记响雷，把我轰蒙了。前面没看出什么伏笔暗示。作者在这里埋伏读者一手，告诉读者这不是本爽文。十几年前的反套路修仙文，能在书院不时被拿出来讨论，的确有其特点。后面耐不住去翻了翻相关帖子，果然跟自己想的大相径庭。只是现在自己知道了，后面阅读就没有这样震撼效果了，可惜的同时暗骂自己手贱。</p>
+<p>有些作品，还是不被剧透的情况下，才会有更好的体验。</p>
+]]></content>
+      <tags>
+        <tag>无稽之谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>返校与继续实习</title>
+    <url>/2019/10/20/%E8%BF%94%E6%A0%A1%E4%B8%8E%E7%BB%A7%E7%BB%AD%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[<p>十月份又要实习了。在家整整一个月，八九成的时间都是呆在房里两眼不理电脑，连家人也要吐槽上一句“看看你的微信步数”。回来实习才知道国庆原来只放三天假，多出来的四天去掉周末双休，还有两天是需要补回来的，这意味着连续三周都是单休日（节前补过一天）。星期天撞上了要交的专项设计文档，满打满算纯自己手敲了也有4000字左右。除了计划的事情，刚好可以把一些杂七杂八的事情处理掉：团员评优，打印成绩单，就业推荐表。</p>
+<p>收到公司发的中秋月饼，盒子很大，做的简约精巧，附赠了一个纸灯笼和陶玩家的狂欢瓷器皿。图案设计据说也很有考究（三兔共耳）。蛋黄莲蓉和红豆沙两种口味的月饼各两个。跟精致的盒子比起来，月饼就捉襟见肘了，感觉像买椟还珠。吃完月饼的盒子因为内部空间很大，也适合放自己的一些小玩具。说到公司，想起来还有个年度旅游的福利（旅游基金每人2000，可携带一名家属享有该福利，也就是实际上4000的旅游基金），实习生也有份。</p>
+<p>不吹不黑，bigo给实习生的福利基本同正式员工，我觉得可以期待一波年会了。写到这个的时候bigo已经给了oc，对bigo唯一不爽的就是hr吧，我也不会谈薪资之类的技巧，就说了期望薪水，后面了解到好像被压价了，让我好是苦闷了几天，冷静之后心情倒也平复下来，算是接受这个原本就是自己选择导致的结果，求稳的心态。</p>
+<p>之前读一些代码的时候有应付校招的心态，会感觉枯燥。但这几天看别人代码的时候，会有种明朗清晰的感觉，对原本不懂的函数翻翻源码知根知底，用着也更心安。以往的学习是看视频学习会舒服些，后面觉得看书看网上资料会比较好比较快，现在感觉在有基础知识之后去看懂别人的开源代码然后总结，再自己模仿着写就是最好的学习方式。</p>
+<p>十月新番陆续开始播放，今次加速世界第二季依然不在新番名单中，这笔账，川原烁我记下了。手游界的动画三分天下：《命运-冠位指定 绝对魔兽战线 巴比伦尼亚》，《碧蓝航线》，《碧蓝幻想》；三款游戏都有玩过。fgo七章，据说是粉丝投票选出来的第一位，剧情质量有保障。国产良心碧蓝航线，clike游戏，看了两集，动画保留了游戏里的一些特色，希望不会把自己作死了。碧蓝幻想，虽然是我现在还在玩的游戏，但动画还没有看，听说换了制作，不清楚质量如何。</p>
+<p>晚上跟几个快半年未见的朋友（同校，但之前都出去实习了）去gogo吃饭，没有吃到一米鸡，可惜了。选了一米鸡对面的一家烧烤店将就。我现在对烧烤没有好印象，可能是因为一次班级聚会吃烧烤，一次部门旅游吃烧烤，两次尝试都很糟糕的影响。这次也不出意外，尽管朋友好心的先试吃避免了吃到生肉的问题。烧烤还有一个吃不饱的问题，这意味着晚上可能要加餐。</p>
+<p>不管怎么样，吃饭并不是目的，联络感情才是。与朋友交流间彼此羡慕了对方的offer，讲讲过去的事情，调侃调侃人或事。吃完出来已经快九点了，不知是谁先提议开共享汽车回，于是另一位号称“有着三年驾龄”的朋友主驾，绕着内环转了半圈，景色不错，风很温柔。想想会开车也挺不错，虽然自己更多的时候是喜欢乘客的身份。之前家人也让我利用假期啥的去学车，但是每次都以自己没时间推脱，其实是心里担心自己有“路怒症”。</p>
+<p>上班的不知第几天晚上回宿舍时才惊觉自己鞋子穿错了，两双鞋子各穿了一只，好在两双鞋的款式颜色差不多不会显得很突兀，不知不觉错过了一天的尴尬；不知什么时候开始，饭堂支持扫码付款了；偶然发现bilibili的app支持把文章保存长图了（参考印象笔记的网页裁剪），满足了我的收藏癖。最近心态也浮躁，尤其看书急于看完为目的，不是享受故事本身，实在可怕；游戏方面也基本习惯了快餐化，很难静下心来去玩一款单机；工作上暂时没有太多要操心的事情，还能应付。</p>
+<p>不知道是不是因为工作每天与人沟通的时间很少，长期积压的负面情绪没有得到很好的释放，近期需要调整一下心境，找个适合宣泄情绪的方法（或许跑步？）。又不知道是不是临近毕业，对未来愈发迷茫。毕业工作，结婚生子？虽然现在是程序员，但却一点也不清楚自己想要的东西。钱，或许才是最实在的。bigo总监面时问了我对未来的规划，我也只是套了准备好的说辞，内心没有答案，不像以前父母给自己的一个目的——好好读书。接下来的人生路需要自己来做选择，大部分时间也将独自前行。看过一番说辞，大意是或许人生的意义，活着的终极答案只有在这前行的路上才能找到，又或许这一过程本就是答案。</p>
+<p>10月中旬距临近尾声还有几个小时，你期盼或不期盼的时刻总会到来，但又终会过去，我的内心这样告诉自己以告慰明天将要上班的事实。</p>
+]]></content>
+      <tags>
+        <tag>无稽之谈</tag>
+      </tags>
+  </entry>
+</search>
